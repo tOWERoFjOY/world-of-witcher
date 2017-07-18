@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    targetNamespace="https://github.com/tOWERoFjOY/world-of-witcher" xmlns:ww="https://github.com/tOWERoFjOY/world-of-witcher"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm"
+    elementFormDefault="qualified">
+
+    <xs:import namespace="http://purl.org/dc/elements/1.1/"
+        schemaLocation="http://dublincore.org/schemas/xmls/qdc/dc.xsd"/>
+    <xs:import namespace="http://purl.org/dc/terms/"
+        schemaLocation="http://dublincore.org/schemas/xmls/qdc/dcterms.xsd"/>
+    <xs:import namespace="http://www.loc.gov/mods/v3"
+        schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"/>
+    <xs:import namespace="http://www.vraweb.org/vracore4.htm"
+        schemaLocation="http://www.loc.gov/standards/vracore/vra.xsd"/>
+    <!--<xs:import namespace="http://www.vraweb.org/vracore4.htm" schemaLocation="http://www.loc.gov/standards/vracore/vra-strict.xsd"/>-->
+
+    <xs:element name="World_of_Witcher">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="ww:inGame" minOccurs="0"/>
+                <xs:element ref="ww:realWorld" minOccurs="0"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+
+
+    <xs:element name="inGame">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="bggId" type="xs:string"/>
+                <xs:element name="price" type="xs:decimal"/>
+                <xs:element name="myRating" type="xs:positiveInteger"/>
+                <xs:element name="playerCount" type="xs:string"/>
+                <xs:element ref="ww:modsSection" minOccurs="0"/>
+                <xs:element ref="ww:dcSection" minOccurs="0"/>
+                <xs:element ref="ww:vraSection" minOccurs="0"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+
+    <xs:element name="realWorld">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="bggId" type="xs:string"/>
+                <xs:element name="price" type="xs:decimal"/>
+                <xs:element name="myRating" type="xs:positiveInteger"/>
+                <xs:element name="playerCount" type="xs:string"/>
+                <xs:element ref="ww:modsSection" minOccurs="0"/>
+                <xs:element ref="ww:dcSection" minOccurs="0"/>
+                <xs:element ref="ww:vraSection" minOccurs="0"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+
+    <xs:element name="modsSection">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="mods:mods"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="dcSection">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:sequence>
+                    <xs:element ref="dc:any" maxOccurs="unbounded"/>
+                </xs:sequence>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="vraSection">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="vra:work" minOccurs="0"/>
+                <xs:element ref="vra:image" minOccurs="0"/>
+                <xs:element ref="vra:collection" minOccurs="0"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>
