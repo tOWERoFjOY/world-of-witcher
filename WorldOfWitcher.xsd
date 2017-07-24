@@ -29,10 +29,6 @@
     <xs:element name="inGame">
         <xs:complexType>
             <xs:sequence>
-                <xs:element name="bggId" type="xs:string"/>
-                <xs:element name="price" type="xs:decimal"/>
-                <xs:element name="myRating" type="xs:positiveInteger"/>
-                <xs:element name="playerCount" type="xs:string"/>
                 <xs:element ref="ww:modsSection" minOccurs="0"/>
                 <xs:element ref="ww:dcSection" minOccurs="0"/>
                 <xs:element ref="ww:vraSection" minOccurs="0"/>
@@ -44,10 +40,8 @@
     <xs:element name="realWorld">
         <xs:complexType>
             <xs:sequence>
-                <xs:element name="bggId" type="xs:string"/>
-                <xs:element name="price" type="xs:decimal"/>
-                <xs:element name="myRating" type="xs:positiveInteger"/>
-                <xs:element name="playerCount" type="xs:string"/>
+                <xs:element name="Id" type="xs:string"/>
+                <xs:element name="InUniverse" type="xs:boolean"/>
                 <xs:element ref="ww:modsSection" minOccurs="0"/>
                 <xs:element ref="ww:dcSection" minOccurs="0"/>
                 <xs:element ref="ww:vraSection" minOccurs="0"/>
