@@ -19,7 +19,7 @@
         <xs:complexType>
             <xs:sequence>
                 <xs:element name="Id" type="xs:string" minOccurs="1" maxOccurs="1"/>
-                <xs:element name="InUniverse" type="xs:boolean" minOccurs="1" maxOccurs="1"/>
+                <xs:element name="InUniverseOnly" type="xs:boolean" minOccurs="1" maxOccurs="1"/>
                 <xs:element ref="ww:inUniverse" minOccurs="0"/>
                 <xs:element ref="ww:realWorld" minOccurs="0"/>
             </xs:sequence>
