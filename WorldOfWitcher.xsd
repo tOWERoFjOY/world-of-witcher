@@ -18,8 +18,8 @@
     <xs:element name="World_of_Witcher">
         <xs:complexType>
             <xs:sequence>
-                <xs:element name="Id" type="xs:string" maxOccurs="1"/>
-                <xs:element name="InUniverse" type="xs:boolean" maxOccurs="1"/>
+                <xs:element name="Id" type="xs:string" minOccurs="1" maxOccurs="1"/>
+                <xs:element name="InUniverse" type="xs:boolean" minOccurs="1" maxOccurs="1"/>
                 <xs:element ref="ww:inUniverse" minOccurs="0"/>
                 <xs:element ref="ww:realWorld" minOccurs="0"/>
             </xs:sequence>
@@ -30,22 +30,22 @@
 
     <xs:element name="inUniverse">
         <xs:complexType>
-            <xs:sequence>
+            <xs:all>
                 <xs:element ref="ww:modsSection" minOccurs="0"/>
                 <xs:element ref="ww:dcSection" minOccurs="0"/>
                 <xs:element ref="ww:vraSection" minOccurs="0"/>
-            </xs:sequence>
+            </xs:all>
         </xs:complexType>
     </xs:element>
 
 
     <xs:element name="realWorld">
         <xs:complexType>
-            <xs:sequence>
+            <xs:all>
                 <xs:element ref="ww:modsSection" minOccurs="0"/>
                 <xs:element ref="ww:dcSection" minOccurs="0"/>
                 <xs:element ref="ww:vraSection" minOccurs="0"/>
-            </xs:sequence>
+            </xs:all>
         </xs:complexType>
     </xs:element>
 
@@ -70,11 +70,11 @@
 
     <xs:element name="vraSection">
         <xs:complexType>
-            <xs:sequence>
+            <xs:all>
                 <xs:element ref="vra:work" minOccurs="0"/>
                 <xs:element ref="vra:image" minOccurs="0"/>
                 <xs:element ref="vra:collection" minOccurs="0"/>
-            </xs:sequence>
+            </xs:all>
         </xs:complexType>
     </xs:element>
 
