@@ -20,7 +20,7 @@
             <xs:sequence>
                 <xs:element name="Id" type="xs:string" maxOccurs="1"/>
                 <xs:element name="InUniverse" type="xs:boolean" maxOccurs="1"/>
-                <xs:element ref="ww:inGame" minOccurs="0"/>
+                <xs:element ref="ww:inUniverse" minOccurs="0"/>
                 <xs:element ref="ww:realWorld" minOccurs="0"/>
             </xs:sequence>
         </xs:complexType>
@@ -28,7 +28,7 @@
 
 
 
-    <xs:element name="inGame">
+    <xs:element name="inUniverse">
         <xs:complexType>
             <xs:sequence>
                 <xs:element ref="ww:modsSection" minOccurs="0"/>
