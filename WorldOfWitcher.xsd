@@ -30,22 +30,22 @@
 
     <xs:element name="inUniverse">
         <xs:complexType>
-            <xs:all>
+            <xs:sequence>
                 <xs:element ref="ww:modsSection" minOccurs="0"/>
                 <xs:element ref="ww:dcSection" minOccurs="0"/>
                 <xs:element ref="ww:vraSection" minOccurs="0"/>
-            </xs:all>
+            </xs:sequence>
         </xs:complexType>
     </xs:element>
 
 
     <xs:element name="realWorld">
         <xs:complexType>
-            <xs:all>
+            <xs:sequence>
                 <xs:element ref="ww:modsSection" minOccurs="0"/>
                 <xs:element ref="ww:dcSection" minOccurs="0"/>
                 <xs:element ref="ww:vraSection" minOccurs="0"/>
-            </xs:all>
+            </xs:sequence>
         </xs:complexType>
     </xs:element>
 
@@ -70,11 +70,11 @@
 
     <xs:element name="vraSection">
         <xs:complexType>
-            <xs:all>
+            <xs:sequence>
                 <xs:element ref="vra:work" minOccurs="0"/>
                 <xs:element ref="vra:image" minOccurs="0"/>
                 <xs:element ref="vra:collection" minOccurs="0"/>
-            </xs:all>
+            </xs:sequence>
         </xs:complexType>
     </xs:element>
 
