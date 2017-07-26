@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ww:World_of_Witcher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/tOWERoFjOY/world-of-witcher https://raw.githubusercontent.com/tOWERoFjOY/world-of-witcher/master/WorldOfWitcher.xsd"
+    xmlns:ww="https://github.com/tOWERoFjOY/world-of-witcher" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm">
+    <ww:Id>102</ww:Id>
+    <ww:title>
+        <mods:title>Starry Night Over the Pontar</mods:title>
+    </ww:title>
+    <ww:InUniverseOnly>true</ww:InUniverseOnly>
+    <ww:category>Art</ww:category>
+    <ww:inUniverse>
+        <ww:modsSection>
+            <mods:mods>
+                <mods:subject>
+                    <mods:hierarchicalGeographic>
+                        <mods:country>Redania</mods:country>
+                        <mods:city>Novigrad</mods:city>
+                        <mods:area>Hierarch Square</mods:area>
+                    </mods:hierarchicalGeographic>
+                    <mods:hierarchicalGeographic>
+                        <mods:country>Redania</mods:country>
+                        <mods:area>Von Everec Estate</mods:area>
+                    </mods:hierarchicalGeographic>
+                    <mods:temporal>1272</mods:temporal>
+                </mods:subject>
+            </mods:mods>
+        </ww:modsSection>
+        <ww:vraSection>
+            <vra:work>
+                <vra:agentSet>
+                    <vra:display href="http://witcher.wikia.com/wiki/Iris_von_Everec">Iris Von Everec [aka Van Rogh]</vra:display>
+                    <vra:agent>
+                        <vra:name extent="birth name">Von Everec, Iris</vra:name>
+                        <vra:name extent="alias (painting name)">Van Rogh</vra:name>
+                        <vra:dates type="life">
+                            <vra:latestDate>1272</vra:latestDate>
+                        </vra:dates>
+                        <vra:culture>Redanian</vra:culture>
+                        <vra:role vocab="AAT" refid="300025136">painter (artist)</vra:role>
+                    </vra:agent>
+                </vra:agentSet>
+                <vra:culturalContextSet>
+                    <vra:display>Redanian</vra:display>
+                    <vra:culturalContext>Redanian</vra:culturalContext>
+                </vra:culturalContextSet>
+                <vra:dateSet>
+                    <vra:display>ca. 1272</vra:display>
+                    <vra:date type="exhibition">
+                        <vra:earliestDate circa="true">1272</vra:earliestDate>
+                    </vra:date>
+                    <vra:date type="creation">
+                        <vra:latestDate circa="true">1272</vra:latestDate>
+                    </vra:date>
+                </vra:dateSet>
+                <vra:descriptionSet>
+                    <vra:display>Starry Night Over the Pontar is a painting by van Rogh, and an item in the Hearts of Stone expansion for The Witcher 3: Wild Hunt.
+                        It may be acquired at the auction during the quest Open Sesame!, either for 20 or 60 crowns. This painting is a reference to Vincent van Gogh's 
+                        painting "Starry Night Over the Rhône."</vra:display>
+                    <vra:description source="http://witcher.wikia.com/wiki/%22Starry_Night_Over_the_Pontar%22">Starry Night Over the Pontar is a painting by van Rogh, and an item in the Hearts of Stone expansion for The Witcher 3: Wild Hunt.
+                        It may be acquired at the auction during the quest Open Sesame!, either for 20 or 60 crowns. This painting is a reference to Vincent van Gogh's 
+                        painting "Starry Night Over the Rhône."</vra:description>
+                </vra:descriptionSet>
+                <vra:locationSet>
+                    <vra:display>Current owner is Marcus Hodgson, owner of the Books and Scrolls bookstore within Hierarch Square in the city of Novigrad</vra:display>
+                    <vra:location source="http://witcher.wikia.com/wiki/Avid_Collector" type="owner">
+                        <vra:name type="personal">Hodgson, Marcus</vra:name>
+                    </vra:location>
+                    <vra:location source="http://witcher.wikia.com/wiki/Avid_Collector" type="exhibition">
+                        <vra:name type="corporate">Books and Scrolls</vra:name>
+                        <vra:name type="other" extent="district">Hierarch Square</vra:name>
+                        <vra:name type="other" extent="city">Novigrad</vra:name>
+                        <vra:name type="other" extent="kingdom">Redania</vra:name>
+                    </vra:location>
+                </vra:locationSet>
+                <vra:materialSet>
+                    <vra:display>oil paint on canvas</vra:display>
+                    <vra:material type="medium" vocab="AAT" refid="300015050">oil paint</vra:material>
+                    <vra:material type="support" vocab="AAT" refid="300014078">canvas</vra:material>
+                </vra:materialSet> 
+                <vra:rightsSet>
+                    <vra:display>Refer to terms of use outlined at http://www.wikia.com/Terms_of_use. Data/information on witcher universe is a copyrighted interpretation 
+                        of the Witcher Series universe></vra:display>
+                    <vra:rights type="copyrighted" href="http://www.wikia.com/Terms_of_use">
+                        <vra:rightsHolder>The Official Witcher Wikia</vra:rightsHolder>
+                        <vra:text>Refer to terms of use outlined at http://www.wikia.com/Terms_of_use. Data/information on witcher universe is a copyrighted interpretation 
+                            of the Witcher Series universe</vra:text>
+                    </vra:rights>
+                </vra:rightsSet>
+                <vra:sourceSet>
+                    <vra:display href="http://witcher.wikia.com/wiki/%22Starry_Night_Over_the_Pontar%22">The Official Witcher Wikia entry for "Starry Night Over the Pontar"</vra:display>
+                    <vra:source href="http://witcher.wikia.com/wiki/%22Starry_Night_Over_the_Pontar%22">
+                        <vra:name>The Official Witcher Wikia entry for "Starry Night Over the Pontar"</vra:name>
+                    </vra:source>
+                </vra:sourceSet>
+                <vra:subjectSet>
+                    <vra:display>Imppressionism; landscapes</vra:display>
+                    <vra:subject>
+                        <vra:term type="conceptTopic" vocab="AAT" refid="300021503">Impressionist (style)</vra:term>
+                        <vra:term type="descriptiveTopic" vocab="AAT" refid="300015636">landscapes (representation)</vra:term>
+                    </vra:subject>
+                </vra:subjectSet>
+                <vra:techniqueSet>
+                    <vra:display>Impasto painting</vra:display>
+                    <vra:technique vocab="AAT" refid="300053368">impasto</vra:technique>
+                </vra:techniqueSet>
+            </vra:work>
+        </ww:vraSection>
+    </ww:inUniverse>
+    <ww:realWorld>
+        <ww:modsSection>
+            <mods:mods>
+                <mods:name type="corporate">
+                    <mods:namePart>CD Projekt Red</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm>Creator</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:abstract>Starry Night Over the Pontar is a painting by van Rogh, and an item in the Hearts of Stone expansion for The Witcher 3: Wild Hunt.
+                    It may be acquired at the auction during the quest "Open Sesame!", either for 20 or 60 crowns. This painting is a reference to Vincent van Gogh's 
+                    painting "Starry Night Over the Rhône."
+                </mods:abstract>
+                <mods:originInfo>
+                    <mods:dateIssued>2016-05-31</mods:dateIssued>
+                </mods:originInfo>
+                <mods:recordInfo>
+                    <mods:recordContentSource>Record info was manually transformed into MODS based on digital born objects at the Official Witcher Wikia</mods:recordContentSource>
+                    <mods:recordContentSource>http://witcher.wikia.com/wiki/%22Starry_Night_Over_the_Pontar%22</mods:recordContentSource>
+                    <mods:recordContentSource>http://witcher.wikia.com/wiki/Avid_Collector</mods:recordContentSource>
+                    <mods:recordContentSource>http://witcher.wikia.com/wiki/Iris_von_Everec</mods:recordContentSource>
+                </mods:recordInfo>
+                <mods:accessCondition type="use and reproduction" xmlns:xlink="http://www.w3.org/1999/xlink" 
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">This Item is protected by copyright and/or related rights. 
+                    You are free to use this Item in any way that is permitted by the copyright and related rights legislation that 
+                    applies to your use. For other uses you need to obtain permission from the rights-holder(s).
+                </mods:accessCondition>
+            </mods:mods>
+        </ww:modsSection>
+        <ww:dcSection>
+            <dc:subject xsi:type="dcterms:LCSH">Painting in Literature</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Impressionism in motion pictures</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Impressionism in literature</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Impressionism</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Gender identity--Fiction</dc:subject>
+            <dcterms:isPartOf>Witcher 3</dcterms:isPartOf>
+            <dcterms:isPartOf>Witcher 3 Hearts of Stone Expansion</dcterms:isPartOf>
+        </ww:dcSection>
+        <ww:vraSection>
+            <vra:image>
+                <vra:agentSet>
+                    <vra:agent>
+                        <vra:name type="corporate">CD Projekt Red</vra:name>
+                        <vra:role>creator</vra:role>
+                        <vra:role>publisher</vra:role>
+                    </vra:agent>
+                    <vra:agent>
+                        <vra:name type="corporate">Warner Bros. Interactive Entertainment</vra:name>
+                        <vra:role>publisher</vra:role>
+                    </vra:agent>
+                    <vra:agent>
+                        <vra:name type="corporate">Bandai Namco Entertainment</vra:name>
+                        <vra:role>publisher</vra:role>
+                    </vra:agent>
+                    <vra:agent>
+                        <vra:name type="other" href="http://witcher.wikia.com/wiki/Witcher_Wiki">The Official Witcher Wiki</vra:name>
+                        <vra:role>image owner</vra:role>
+                    </vra:agent>
+                </vra:agentSet>
+                <vra:measurementsSet>
+                    <vra:display>500 x 310 pixels resolution, 154 kb file size</vra:display>
+                    <vra:measurements type="fileSize">154 kb</vra:measurements>
+                    <vra:measurements type="resolution">500 x 310 pixels</vra:measurements>
+                </vra:measurementsSet>
+                <vra:relationSet>
+                    <vra:relation>image of collection ID# 102</vra:relation>
+                </vra:relationSet>
+                <vra:rightsSet>
+                    <vra:rights type="copyrighted" source="http://www.wikia.com/Terms_of_use">
+                        <vra:rightsHolder href="http://www.wikia.com/Terms_of_use">The Official Witcher Wikia</vra:rightsHolder>
+                    </vra:rights>
+                </vra:rightsSet>
+                <vra:sourceSet>
+                    <vra:display href="http://witcher.wikia.com/wiki/%22Starry_Night_Over_the_Pontar%22">The Official Witcher Wikia entry for "Starry Night Over the Pontar"</vra:display>
+                    <vra:source href="http://witcher.wikia.com/wiki/%22Starry_Night_Over_the_Pontar%22">
+                        <vra:name>The Official Witcher Wikia entry for "Starry Night Over the Pontar"</vra:name>
+                    </vra:source>
+                </vra:sourceSet>
+                <vra:techniqueSet>
+                    <vra:technique vocab="AAT" refid="300237903">digital imaging</vra:technique>
+                </vra:techniqueSet>
+                <vra:titleSet>
+                    <vra:title>Starry Night Over the Pontar</vra:title>
+                </vra:titleSet>
+                <vra:worktypeSet>
+                    <vra:worktype vocab="AAT" refid="300237903">digital image</vra:worktype>
+                </vra:worktypeSet>
+            </vra:image>
+        </ww:vraSection>
+    </ww:realWorld>
+</ww:World_of_Witcher>

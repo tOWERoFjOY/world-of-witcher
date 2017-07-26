@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ww:World_of_Witcher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/tOWERoFjOY/world-of-witcher https://raw.githubusercontent.com/tOWERoFjOY/world-of-witcher/master/WorldOfWitcher.xsd"
+    xmlns:ww="https://github.com/tOWERoFjOY/world-of-witcher" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm">
+    <ww:Id>100</ww:Id>
+    <ww:title>
+        <mods:title>Bruxae</mods:title>
+    </ww:title>
+    <ww:InUniverseOnly>true</ww:InUniverseOnly>
+    <ww:category>Beast</ww:category>
+    <ww:inUniverse>
+        <ww:modsSection>
+            <mods:mods>
+                <mods:titleInfo>
+                    <mods:title>Bruxae</mods:title>
+                </mods:titleInfo>
+                <mods:titleInfo type="alternative">
+                    <mods:title>Bruxa</mods:title>
+                </mods:titleInfo>
+                <mods:abstract>
+                    Fortunately for us all, bruxae are rare creatures. Most live far from population centers, for they care greatly for their own safety and make their lairs in places 
+                    where they cannot be taken by surprise. Those who decide to live near men avoid crowds and emerge from their shelters only at night. When they do, one could almost 
+                    mistake them for delayed travelers hurrying towards their night’s lodging, yet subtle details give them away: their close ties to birds, their piercing voices and 
+                    the breathtaking speed of their movements. Bruxae are far swifter and stronger than men, but their greatest asset is their ability to turn invisible.
+                    Bruxae dart about with uncanny speed, and with their power of invisibility they can easily confuse opponents and attack unexpectedly or from behind. 
+                    Thus when fighting these vampires the Moon Dust bomb is a great aid – while it cannot eliminate the vampire’s invisibility altogether, it can make it easier to track 
+                    its motions. A generous smearing of vampire oil is also effective.
+                    Bruxae use their sharp claws to attack and can easily break through an opponent’s guard by buffeting him with a hail of blows from all directions. They will try to
+                    bite their prey and drink its blood once it is weakened, so every witcher who expects to encounter such a monster should swallow a Black Blood potion beforehand. 
+                    Bruxae are also known for their sonic attacks, which knock down and stun their prey.
+                </mods:abstract>
+                <mods:subject> <!-- I use MODS subject to show monster type type and the geographic locations/places the object/entity has been in the game -->
+                    <mods:genre>Vampire</mods:genre>
+                    <mods:geographic>House of the Queen of the Night</mods:geographic>
+                    <mods:geographic>Swamp cemetary</mods:geographic>
+                    <mods:geographic>Old manor catacombs</mods:geographic>
+                    <mods:geographic>Raven's crypt</mods:geographic>
+                    <mods:geographic>Elven Ruins</mods:geographic>
+                    <mods:geographic>Bandit hideout</mods:geographic>
+                    <mods:geographic>Crypt of Mages</mods:geographic>
+                    <mods:hierarchicalGeographic>
+                        <mods:province>Toussaint</mods:province>
+                    </mods:hierarchicalGeographic>
+                    <mods:temporal>1272-1275</mods:temporal>
+                </mods:subject>
+            </mods:mods>
+        </ww:modsSection>
+        <ww:dcSection> <!-- Use this section to show Beast type and timeframe relative to appearence in games (might include first appearence in book) -->
+            <dc:subject>Monster</dc:subject>
+        </ww:dcSection>     
+    </ww:inUniverse>
+    <ww:realWorld>
+        <!-- I use the MODs section to give credit to Sapkowski's creation within the universe since it's first introduced in The Last Wish, Also source for Beastiary info 
+        in Off Witcher Wikia-->
+        <ww:modsSection> 
+            <mods:mods>
+                <mods:name>
+                    <mods:namePart>Sapkowski, Andrzej</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm>Novel author</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:originInfo>
+                    <mods:dateCreated>1993</mods:dateCreated>
+                    <mods:dateCaptured keyDate="yes">20170725</mods:dateCaptured>
+                    <mods:place>
+                        <mods:placeTerm>Bruxa entry in the Official Witcher Wikia</mods:placeTerm>
+                        <mods:placeTerm valueURI="http://witcher.wikia.com/wiki/Bruxa">http://witcher.wikia.com/wiki/Bruxa</mods:placeTerm>
+                    </mods:place>
+                </mods:originInfo>
+                <mods:recordInfo>
+                    <mods:recordOrigin>Record info was manually transformed into MODS based on digital born object</mods:recordOrigin>
+                </mods:recordInfo>
+                <mods:accessCondition type="use and reproduction" xmlns:xlink="http://www.w3.org/1999/xlink" 
+                    xlink:href="http://www.wikia.com/Terms_of_use">Refer to the Official Witcher Wikia terms of use
+                </mods:accessCondition>
+                <mods:accessCondition type="use and reproduction" xmlns:xlink="http://www.w3.org/1999/xlink" 
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">This Item is protected by copyright and/or related rights. 
+                    You are free to use this Item in any way that is permitted by the copyright and related rights legislation that 
+                    applies to your use. For other uses you need to obtain permission from the rights-holder(s).
+                </mods:accessCondition>
+            </mods:mods>
+        </ww:modsSection>
+        <ww:dcSection>
+            <dc:description>A Bruxa, a name derived from Portuguese folklore, is a type of female vampire Geralt encounters throughout the Witcher game universe.</dc:description>
+            <dc:type xsi:type="dcterms:DCMIType">InteractiveResource</dc:type>
+            <dc:subject xsi:type="dcterms:LCSH">Fantasy</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Video Games</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Role Playing</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Monsters</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Monsters and myths</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Monsters in mass media</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Paranormal Fiction</dc:subject>
+            <dcterms:isReferencedBy>"The Last Wish"</dcterms:isReferencedBy>
+            <dcterms:isReferencedBy xsi:type="dcterms:URI"><!-- INSERT XML WEB ADDRESS OF OTHER OBJECT OR COLLECTION ID, ASK MIKE --></dcterms:isReferencedBy>
+            <dcterms:isReferencedBy>"A Night to Remember"</dcterms:isReferencedBy>
+            <dcterms:isReferencedBy xsi:type="dcterms:URI">https://www.youtube.com/watch?v=ehjJ614QfeM</dcterms:isReferencedBy>
+            <dcterms:isPartOf>The Witcher 3: The Wild Hunt</dcterms:isPartOf>
+            <dcterms:isPartOf>The Witcher 2: Assassins of Kings</dcterms:isPartOf>
+            <dcterms:isPartOf>The Witcher </dcterms:isPartOf>
+            <dc:language xsi:type="dcterms:ISO639-2">eng</dc:language> 
+        </ww:dcSection>
+        <ww:vraSection>
+            <!-- VRA section for Brux image from witcher wikia -->
+            <vra:image>
+                <vra:agentSet>
+                    <vra:agent>
+                        <vra:name type="corporate">CD Projekt Red</vra:name>
+                        <vra:role>creator</vra:role>
+                        <vra:role>publisher</vra:role>
+                    </vra:agent>
+                    <vra:agent>
+                        <vra:name type="corporate">Warner Bros. Interactive Entertainment</vra:name>
+                        <vra:role>publisher</vra:role>
+                    </vra:agent>
+                    <vra:agent>
+                        <vra:name type="corporate">Bandai Namco Entertainment</vra:name>
+                        <vra:role>publisher</vra:role>
+                    </vra:agent>
+                    <vra:agent>
+                        <vra:name type="other" href="http://witcher.wikia.com/wiki/Witcher_Wiki">The Official Witcher Wiki</vra:name>
+                        <vra:role>image owner</vra:role>
+                    </vra:agent>
+                </vra:agentSet>
+                <vra:dateSet>
+                    <vra:date type="creation">
+                        <vra:earliestDate>2016-05-31</vra:earliestDate>
+                        <vra:latestDate>2016-06-05</vra:latestDate>
+                    </vra:date>
+                </vra:dateSet>
+                <vra:measurementsSet>
+                    <vra:display>654 x 727 pixels resolution, 238 kb file size</vra:display>
+                    <vra:measurements type="fileSize">238 kb</vra:measurements>
+                    <vra:measurements type="resolution">654 x 727 pixels</vra:measurements>
+                </vra:measurementsSet>
+                <vra:relationSet>
+                    <vra:relation>collection ID# 100</vra:relation>
+                </vra:relationSet>
+                <vra:rightsSet>
+                    <vra:rights type="copyrighted" source="http://www.wikia.com/Terms_of_use">
+                        <vra:rightsHolder href="http://www.wikia.com/Terms_of_use">The Official Witcher Wikia</vra:rightsHolder>
+                        <vra:rightsHolder>http://witcher.wikia.com/wiki/Witcher_Wiki</vra:rightsHolder>
+                    </vra:rights>
+                </vra:rightsSet>
+                <vra:sourceSet>
+                    <vra:display href="http://witcher.wikia.com/wiki/File:Tw3_journal_bruxa.png">Bruxa image from Witcher 3 Bestiary/Journal</vra:display>
+                    <vra:source href="http://witcher.wikia.com/wiki/File:Tw3_journal_bruxa.png">
+                        <vra:name>Tw3 journal bruxa.png</vra:name>
+                    </vra:source>
+                </vra:sourceSet>
+                <vra:techniqueSet>
+                    <vra:technique vocab="AAT" refid="300237903">digital imaging</vra:technique>
+                </vra:techniqueSet>
+                <vra:titleSet>
+                    <vra:title>Bruxa image from Witcher 3 Bestiary/Journal</vra:title>
+                </vra:titleSet>
+                <vra:worktypeSet>
+                    <vra:worktype vocab="AAT" refid="300237903">digital image</vra:worktype>
+                </vra:worktypeSet>
+            </vra:image>
+        </ww:vraSection>
+    </ww:realWorld>
+</ww:World_of_Witcher>
