@@ -9,6 +9,7 @@
     </ww:title>
     <ww:InUniverseOnly>true</ww:InUniverseOnly>
     <ww:category>Beast</ww:category>
+    
     <ww:inUniverse>
         <ww:modsSection>
             <mods:mods>
@@ -46,10 +47,13 @@
                 </mods:subject>
             </mods:mods>
         </ww:modsSection>
+        
         <ww:dcSection> <!-- Use this section to show Beast type and timeframe relative to appearence in games (might include first appearence in book) -->
             <dc:subject>Monster</dc:subject>
-        </ww:dcSection>     
+        </ww:dcSection>   
     </ww:inUniverse>
+    
+    
     <ww:realWorld>
         <!-- I use the MODs section to give credit to Sapkowski's creation within the universe since it's first introduced in The Last Wish, Also source for Beastiary info 
         in Off Witcher Wikia-->
@@ -82,6 +86,7 @@
                 </mods:accessCondition>
             </mods:mods>
         </ww:modsSection>
+        
         <ww:dcSection>
             <dc:description>A Bruxa, a name derived from Portuguese folklore, is a type of female vampire Geralt encounters throughout the Witcher game universe.</dc:description>
             <dc:type xsi:type="dcterms:DCMIType">InteractiveResource</dc:type>
@@ -93,7 +98,6 @@
             <dc:subject xsi:type="dcterms:LCSH">Monsters in mass media</dc:subject>
             <dc:subject xsi:type="dcterms:LCSH">Paranormal Fiction</dc:subject>
             <dcterms:isReferencedBy>"The Last Wish"</dcterms:isReferencedBy>
-            <dcterms:isReferencedBy xsi:type="dcterms:URI"><!-- INSERT XML WEB ADDRESS OF OTHER OBJECT OR COLLECTION ID, ASK MIKE --></dcterms:isReferencedBy>
             <dcterms:isReferencedBy>"A Night to Remember"</dcterms:isReferencedBy>
             <dcterms:isReferencedBy xsi:type="dcterms:URI">https://www.youtube.com/watch?v=ehjJ614QfeM</dcterms:isReferencedBy>
             <dcterms:isPartOf>The Witcher 3: The Wild Hunt</dcterms:isPartOf>
@@ -101,8 +105,8 @@
             <dcterms:isPartOf>The Witcher </dcterms:isPartOf>
             <dc:language xsi:type="dcterms:ISO639-2">eng</dc:language> 
         </ww:dcSection>
+        
         <ww:vraSection>
-            <!-- VRA section for Brux image from witcher wikia -->
             <vra:image>
                 <vra:agentSet>
                     <vra:agent>
