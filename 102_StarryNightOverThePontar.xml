@@ -9,6 +9,8 @@
     </ww:title>
     <ww:InUniverseOnly>true</ww:InUniverseOnly>
     <ww:category>Art</ww:category>
+    
+    
     <ww:inUniverse>
         <ww:modsSection>
             <mods:mods>
@@ -26,6 +28,7 @@
                 </mods:subject>
             </mods:mods>
         </ww:modsSection>
+        
         <ww:vraSection>
             <vra:work>
                 <vra:agentSet>
@@ -106,7 +109,10 @@
                 </vra:techniqueSet>
             </vra:work>
         </ww:vraSection>
+       
     </ww:inUniverse>
+    
+    
     <ww:realWorld>
         <ww:modsSection>
             <mods:mods>
@@ -136,6 +142,7 @@
                 </mods:accessCondition>
             </mods:mods>
         </ww:modsSection>
+        
         <ww:dcSection>
             <dc:subject xsi:type="dcterms:LCSH">Painting in Literature</dc:subject>
             <dc:subject xsi:type="dcterms:LCSH">Impressionism in motion pictures</dc:subject>
@@ -145,6 +152,7 @@
             <dcterms:isPartOf>Witcher 3</dcterms:isPartOf>
             <dcterms:isPartOf>Witcher 3 Hearts of Stone Expansion</dcterms:isPartOf>
         </ww:dcSection>
+        
         <ww:vraSection>
             <vra:image>
                 <vra:agentSet>
