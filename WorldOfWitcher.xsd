@@ -30,14 +30,14 @@
     <xs:element name="category">
         <xs:simpleType>
             <xs:restriction base="xs:string">
-                <xs:enumeration value="media"/>
-                <xs:enumeration value="art"/>
-                <xs:enumeration value="printed materials"/>
-                <xs:enumeration value="gear"/>
-                <xs:enumeration value="collectibles"/>
-                <xs:enumeration value="beast"/>
-                <xs:enumeration value="people"/>
-                <xs:enumeration value="places"/>
+                <xs:enumeration value="Media"/>
+                <xs:enumeration value="Art"/>
+                <xs:enumeration value="Printed materials"/>
+                <xs:enumeration value="Gear"/>
+                <xs:enumeration value="Collectibles"/>
+                <xs:enumeration value="Beast"/>
+                <xs:enumeration value="People"/>
+                <xs:enumeration value="Places"/>
             </xs:restriction>
         </xs:simpleType>
     </xs:element>    
