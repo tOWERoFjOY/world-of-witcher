@@ -80,7 +80,13 @@
                 <mods:name type="corporate">
                     <mods:namePart>CD Projekt Red</mods:namePart>
                     <mods:role>
-                        <mods:roleTerm>Creator</mods:roleTerm>
+                        <mods:roleTerm>creator</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:name type="personal" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2013101040">
+                    <mods:namePart>Sapkowski, Andrzej</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text">Novel author</mods:roleTerm>
                     </mods:role>
                 </mods:name>
                 <mods:name>
