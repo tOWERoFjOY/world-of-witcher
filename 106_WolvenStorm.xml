@@ -3,9 +3,10 @@
     xsi:schemaLocation="https://github.com/tOWERoFjOY/world-of-witcher https://raw.githubusercontent.com/tOWERoFjOY/world-of-witcher/master/WorldOfWitcher.xsd"
     xmlns:ww="https://github.com/tOWERoFjOY/world-of-witcher" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
     xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm">
-    <ww:Id>105</ww:Id>
+    <ww:Id>106</ww:Id>
     <ww:title>
-        <mods:title>No Place Like Home</mods:title>
+        <mods:nonSort>The</mods:nonSort>
+        <mods:partName>Wolven Storm</mods:partName>
     </ww:title>
     <ww:InUniverseOnly>true</ww:InUniverseOnly>
     <ww:category>Media</ww:category>
@@ -20,27 +21,26 @@
                     </mods:role>
                 </mods:name>
                 <mods:name>
-                    <mods:namePart>Eskel</mods:namePart>
+                    <mods:namePart>Zoltan</mods:namePart>
                     <mods:role>
-                        <mods:roleTerm type="text">Witcher</mods:roleTerm>
+                        <mods:roleTerm type="text">Swordsman</mods:roleTerm>
                     </mods:role>
                 </mods:name>
                 <mods:name>
-                    <mods:namePart>Lambert</mods:namePart>
+                    <mods:namePart>Priscilla</mods:namePart>
+                    <mods:namePart>Callonetta</mods:namePart>
                     <mods:role>
-                        <mods:roleTerm type="text">Witcher</mods:roleTerm>
-                    </mods:role>
-                </mods:name>
-                <mods:name>
-                    <mods:namePart>Yennefer of Vengerberg</mods:namePart>
-                    <mods:role>
-                        <mods:roleTerm type="text">Sorceress</mods:roleTerm>
+                        <mods:roleTerm type="text">Trobairitz</mods:roleTerm>
                     </mods:role>
                 </mods:name>
                 <mods:subject>
-                    <mods:geographic>Kaer Mohren</mods:geographic>
+                    <mods:geographic>Kingfisher Inn</mods:geographic>
+                    <mods:hierarchicalGeographic>
+                        <mods:country>Redania</mods:country>
+                        <mods:city>Novigrad</mods:city>
+                    </mods:hierarchicalGeographic>
                     <mods:temporal>1272</mods:temporal>
-                    <mods:occupation>Witcher</mods:occupation>
+                    <mods:occupation>Trobairitz</mods:occupation>
                 </mods:subject>
             </mods:mods>
         </ww:modsSection>
@@ -57,30 +57,18 @@
                     </mods:role>
                 </mods:name>
                 <mods:name>
-                    <mods:namePart>Gough, Denise</mods:namePart>
+                    <mods:namePart>Morton, Alexander</mods:namePart>
                     <mods:role>
                         <mods:roleTerm type="text">voice actor</mods:roleTerm>
-                        <mods:roleTerm type="text">Yennefer</mods:roleTerm>
+                        <mods:roleTerm type="text">Zoltan</mods:roleTerm>
                     </mods:role>
                 </mods:name>
                 <mods:name>
-                    <mods:namePart>Clarke Hill, Tom</mods:namePart>
+                    <mods:namePart>Hiddleston, Emma</mods:namePart>
                     <mods:role>
                         <mods:roleTerm type="text">voice actor</mods:roleTerm>
-                        <mods:roleTerm type="text">Eskel</mods:roleTerm>
-                    </mods:role>
-                </mods:name>
-                <mods:name>
-                    <mods:namePart>Contreras, Christian</mods:namePart>
-                    <mods:role>
-                        <mods:roleTerm type="text">voice actor</mods:roleTerm>
-                        <mods:roleTerm type="text">Lambert</mods:roleTerm>
-                    </mods:role>
-                </mods:name>
-                <mods:name type="corporate">
-                    <mods:namePart>CD Projekt Red</mods:namePart>
-                    <mods:role>
-                        <mods:roleTerm>creator</mods:roleTerm>
+                        <mods:roleTerm type="text">performer</mods:roleTerm>
+                        <mods:roleTerm type="text">Priscilla</mods:roleTerm>
                     </mods:role>
                 </mods:name>
                 <mods:name type="personal" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2013101040">
@@ -90,28 +78,34 @@
                     </mods:role>
                 </mods:name>
                 <mods:name>
-                    <mods:namePart>PhatSteve7</mods:namePart>
+                    <mods:namePart>Shirrako</mods:namePart>
                     <mods:description>Youtube profile that uploaded video capture of scene from Witcher 3</mods:description>
                 </mods:name>
-                <mods:abstract>This scene depicts Geralt and the “younger” witchers of the school of the Wolf, Lambert and Eskel, being reunited and choosing 
-                    to spend their evening drinking, telling stories, and getting into trouble. The scene serves as a comedic break in the action near the end 
-                    of the Witcher 3 game, and explores just how human the mutant witchers can be.</mods:abstract>
+                <mods:name>
+                    <mods:namePart>Marcin Przybyłowicz</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text">composer</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:abstract>This song serves as an introduction to the character of Priscilla, a troubadour Geralt
+                    encounters in Witcher 3. The song is actually a retelling of the complicated relationship between 
+                    the witcher, Geralt of Rivia, and the sorceress Yennefer of Vengeburg.</mods:abstract>
                 <mods:typeOfResource>moving image</mods:typeOfResource>
                 <mods:physicalDescription>
                     <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
                     <mods:form type="Technique">screen recording</mods:form>
                 </mods:physicalDescription>
                 <mods:location>
-                    <mods:url>https://www.youtube.com/watch?v=jls8boIDo5I</mods:url>
+                    <mods:url>www.youtube.com/watch?v=2bSk-8C76dc</mods:url>
                 </mods:location>
                 <mods:originInfo>
                     <mods:dateValid>2017-07-26</mods:dateValid>
                     <mods:place>
-                        <mods:placeTerm valueURI="https://www.youtube.com/watch?v=jls8boIDo5I">The Witcher 3 Drinking Games with Witchers (Funny Scene)</mods:placeTerm>
-                        <mods:placeTerm>https://www.youtube.com/watch?v=jls8boIDo5I</mods:placeTerm>
+                        <mods:placeTerm valueURI="www.youtube.com/watch?v=2bSk-8C76dc">The Witcher 3 Soundtrack OST - Priscilla's Song</mods:placeTerm>
+                        <mods:placeTerm>https://www.youtube.com/watch?v=2bSk-8C76dc</mods:placeTerm>
                     </mods:place>
                     <mods:dateCaptured>2017-07-26</mods:dateCaptured>
-                    <mods:dateIssued>2015-05-25</mods:dateIssued>
+                    <mods:dateIssued>2015-05-21</mods:dateIssued>
                 </mods:originInfo>
                 <mods:recordInfo>
                     <mods:recordOrigin>Record info was manually transformed into MODS based on digital born object</mods:recordOrigin>
@@ -129,7 +123,6 @@
             <dc:subject xsi:type="dcterms:LCSH">Fantasy</dc:subject>
             <dc:subject xsi:type="dcterms:LCSH">Video Games</dc:subject>
             <dc:subject xsi:type="dcterms:LCSH">Role Playing</dc:subject>
-            <dc:subject xsi:type="dcterms:LCSH">Magic</dc:subject>
         </ww:dcSection>
         
         <ww:vraSection>
@@ -149,7 +142,7 @@
                         <vra:role>publisher</vra:role>
                     </vra:agent>
                     <vra:agent>
-                        <vra:name type="other" href="https://www.youtube.com/channel/UCrUUPp4VcFe-V76MNLRWStw">PhatSteve7</vra:name>
+                        <vra:name type="other" href="https://www.youtube.com/channel/UC7eAfUjR9gdIjoaoQaS0W-A">Shirrako</vra:name>
                         <vra:role>image owner</vra:role>
                     </vra:agent>
                 </vra:agentSet>
@@ -159,7 +152,7 @@
                     <vra:measurements type="resolution">640 x 360 pixel resolution</vra:measurements>
                 </vra:measurementsSet>
                 <vra:relationSet>
-                    <vra:relation type="imageOf">Collection ID# 105</vra:relation>
+                    <vra:relation type="imageOf">Collection ID# 106</vra:relation>
                 </vra:relationSet>
                 <vra:rightsSet>
                     <vra:display>Image is copyrighted product of CD Projekt RED</vra:display>
@@ -167,14 +160,14 @@
                         <vra:rightsHolder>CD Projekt RED</vra:rightsHolder>
                     </vra:rights>
                     <vra:rights type="terms of use" href="https://www.youtube.com/static?template=terms">
-                        <vra:rightsHolder>PhatSteve7 [YouTube Account]</vra:rightsHolder>
+                        <vra:rightsHolder>Shirrako [YouTube Account]</vra:rightsHolder>
                         <vra:text>YouTube terms of Service, https://www.youtube.com/static?template=terms </vra:text>
                     </vra:rights>
                 </vra:rightsSet>
                 <vra:sourceSet>
-                    <vra:display href="https://www.youtube.com/watch?v=jls8boIDo5I">Youtube video entitled "The Witcher 3 Drinking Games iwht Witchers (Funny Scene)"</vra:display>
+                    <vra:display href="https://www.youtube.com/watch?v=jls8boIDo5I">Youtube video entitled "The Witcher 3 Soundtrack OST - Priscilla's Song"</vra:display>
                     <vra:source href="https://www.youtube.com/watch?v=jls8boIDo5I">
-                        <vra:name>The Witcher 3 Drinking Games iwht Witchers (Funny Scene)</vra:name>
+                        <vra:name>The Witcher 3 Soundtrack OST - Priscilla's Song</vra:name>
                     </vra:source>
                 </vra:sourceSet>
                 <vra:techniqueSet>
