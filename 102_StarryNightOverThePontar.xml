@@ -197,9 +197,6 @@
                 <vra:techniqueSet>
                     <vra:technique vocab="AAT" refid="300237903">digital imaging</vra:technique>
                 </vra:techniqueSet>
-                <vra:titleSet>
-                    <vra:title>Starry Night Over the Pontar</vra:title>
-                </vra:titleSet>
                 <vra:worktypeSet>
                     <vra:worktype vocab="AAT" refid="300237903">digital image</vra:worktype>
                 </vra:worktypeSet>

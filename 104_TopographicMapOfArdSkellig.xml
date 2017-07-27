@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ww:World_of_Witcher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/tOWERoFjOY/world-of-witcher https://raw.githubusercontent.com/tOWERoFjOY/world-of-witcher/master/WorldOfWitcher.xsd"
+    xmlns:ww="https://github.com/tOWERoFjOY/world-of-witcher" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm">
+    <ww:Id>104</ww:Id>
+    <ww:title>
+        <mods:title>Topographic map of Ard Skellig</mods:title>
+    </ww:title>
+    <ww:InUniverseOnly>true</ww:InUniverseOnly>
+    <ww:category>Places</ww:category>
+    
+    <ww:inUniverse>
+        <ww:modsSection>
+            <mods:mods>
+                <mods:abstract>
+                    Topographic map of Ard Skellig in year 1272 showing the point location of Master-crafted Witcher Armor Set from the School of the Griffin
+                    as well as point locations of nearby signposts, missions, traders, towns, and roads as depicted within "Witcher 3: The Wild Hunt".
+                </mods:abstract>
+                <mods:physicalDescription>
+                    <mods:extent>5 signpost locations, 2 places of power, 2 cave entrance, 1 hidden treasure, 1 guarded treasure, 1 bandit camp, 1 harbor, 
+                    1 herbalist, 1 Gwent player, 1 Cave entrance</mods:extent>
+                </mods:physicalDescription>
+                <mods:subject>
+                    <mods:geographic>Hidden treasure</mods:geographic>
+                    <mods:geographic>Guarded treasure</mods:geographic>
+                    <mods:geographic>Cave entrance</mods:geographic>
+                    <mods:geographic>Bandit campe</mods:geographic>
+                    <mods:hierarchicalGeographic>
+                        <mods:country>Skellige Isles</mods:country>
+                        <mods:island>Ard Skellig</mods:island>
+                        <mods:city>Redgill</mods:city>
+                    </mods:hierarchicalGeographic>
+                    <mods:hierarchicalGeographic>
+                        <mods:country>Skellige Isles</mods:country>
+                        <mods:island>Ard Skellig</mods:island>
+                        <mods:city>Gedyneith</mods:city>
+                    </mods:hierarchicalGeographic>
+                    <mods:hierarchicalGeographic>
+                        <mods:country>Skellige Isles</mods:country>
+                        <mods:island>Ard Skellig</mods:island>
+                        <mods:area>Abandoned saw mill</mods:area>
+                    </mods:hierarchicalGeographic>
+                    <mods:hierarchicalGeographic>
+                        <mods:country>Skellige Isles</mods:country>
+                        <mods:island>Ard Skellig</mods:island>
+                        <mods:area>Whale graveyard</mods:area>
+                    </mods:hierarchicalGeographic>
+                    <mods:hierarchicalGeographic>
+                        <mods:country>Skellige Isles</mods:country>
+                        <mods:island>Ard Skellig</mods:island>
+                        <mods:area>Druid camp</mods:area>
+                    </mods:hierarchicalGeographic>
+                    <mods:temporal>1272</mods:temporal>
+                </mods:subject>
+            </mods:mods>
+        </ww:modsSection>
+    </ww:inUniverse>
+    
+    <ww:realWorld>
+        <ww:modsSection>
+            <mods:mods>
+                <mods:name type="personal" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2013101040">
+                    <mods:namePart>Sapkowski, Andrzej</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text">Novel author</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:name type="corporate">
+                    <mods:namePart>CD Projekt Red</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text">Map creater</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:name>
+                    <mods:namePart>untamed0</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm>Website designer</mods:roleTerm>
+                    </mods:role>
+                    <mods:description>untamed0 is the GitHub account for the unnamed curater of witcher3map.com</mods:description>
+                </mods:name>
+                <mods:abstract>
+                    Topographic map of Ard Skellig in year 1272 showing the point location of Master-crafted Witcher Armor Set from the School of the Griffin
+                    as well as point locations of nearby signposts, missions, traders, towns, and roads as depicted within "Witcher 3: The Wild Hunt".
+                </mods:abstract>
+                <mods:typeOfResource>cartographic</mods:typeOfResource>
+                <mods:physicalDescription>
+                    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+                </mods:physicalDescription>
+                <mods:location>
+                    <mods:url>http://www.witcher3map.com/s/#5/-25.839/24.983/m=-22.533,17.996</mods:url>
+                </mods:location>
+                <mods:originInfo>
+                    <mods:dateCaptured>2017-07-26</mods:dateCaptured>
+                    <mods:publisher>untamed0 [GitHub account]</mods:publisher>
+                </mods:originInfo>
+                <mods:recordInfo>
+                    <mods:recordOrigin>Record manually crafted using withcer3map.com as reference</mods:recordOrigin>
+                </mods:recordInfo>
+                <mods:accessCondition type="use and reproduction" xmlns:xlink="http://www.w3.org/1999/xlink" 
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">This Item is protected by copyright and/or related rights. 
+                    You are free to use this Item in any way that is permitted by the copyright and related rights legislation that 
+                    applies to your use. For other uses you need to obtain permission from the rights-holder(s).
+                </mods:accessCondition>
+            </mods:mods>
+        </ww:modsSection>
+        
+        <ww:dcSection>
+            <dc:format>Topographic map</dc:format>
+            <dcterms:isPartOf>The Witcher 3: The Wild Hunt</dcterms:isPartOf>
+            <dc:subject xsi:type="dcterms:LCSH">Fantasy</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Video Games</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Role Playing</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Topographic Maps</dc:subject>
+        </ww:dcSection>
+        
+        <ww:vraSection>
+            <vra:image>
+                <vra:agentSet>
+                    <vra:agent>
+                        <vra:name href="https://github.com/untamed0">untamed</vra:name>
+                        <vra:role>Website creator</vra:role>
+                    </vra:agent>
+                </vra:agentSet>
+                <vra:measurementsSet>
+                    <vra:display>500 x 310 pixels resolution, 154 kb file size</vra:display>
+                    <vra:measurements type="fileSize">154 kb</vra:measurements>
+                    <vra:measurements type="resolution">500 x 310 pixels</vra:measurements>
+                </vra:measurementsSet>
+                <vra:relationSet>
+                    <vra:relation type="image of">collection ID# 104</vra:relation>
+                </vra:relationSet>
+                <vra:rightsSet>
+                    <vra:rights type="copyrighted" source="http://www.witcher3map.com/">
+                        <vra:rightsHolder>CD Projekt Red</vra:rightsHolder>
+                        <vra:text>Witcher 3, logo, icons, map and text are the property of CD Projekt Red. The Witcher 3, logo, icons, map and text are the property of
+                        CD Projeckt Red and used without permission</vra:text>
+                    </vra:rights>
+                </vra:rightsSet>
+                <vra:sourceSet>
+                    <vra:display href="http://www.witcher3map.com/s/#5/-25.839/24.983/m=-22.533,17.996">Image capture of map generated at witcher3map.com</vra:display>
+                    <vra:source href="http://www.witcher3map.com/s/#5/-25.839/24.983/m=-22.533,17.996">
+                        <vra:name>witcher3map.com</vra:name>
+                    </vra:source>
+                </vra:sourceSet>
+                <vra:techniqueSet>
+                    <vra:technique vocab="AAT" refid="300237903">digital imaging</vra:technique>
+                </vra:techniqueSet>
+                <vra:worktypeSet>
+                    <vra:worktype vocab="AAT" refid="300237903">digital image</vra:worktype>
+                </vra:worktypeSet>
+            </vra:image>
+        </ww:vraSection>
+    </ww:realWorld>
+</ww:World_of_Witcher>

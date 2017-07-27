@@ -58,7 +58,7 @@
     <ww:realWorld>
         <ww:modsSection> 
             <mods:mods>
-                <mods:name>
+                <mods:name type="personal" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2013101040">
                     <mods:namePart>Sapkowski, Andrzej</mods:namePart>
                     <mods:role>
                         <mods:roleTerm>Novel author</mods:roleTerm>
