@@ -115,7 +115,6 @@
             <dc:subject xsi:type="dcterms:LCSH">Video Games</dc:subject>
             <dc:subject xsi:type="dcterms:LCSH">Role Playing</dc:subject>
             <dc:subject xsi:type="dcterms:LCSH">Topographic Maps</dc:subject>
-            <dcterms:isPartOf>Witcher 3</dcterms:isPartOf>
             <dcterms:isReferencedBy>Mastercrafted Griffin Chest Armor</dcterms:isReferencedBy>
         </ww:dcSection>
         
@@ -123,8 +122,13 @@
             <vra:image>
                 <vra:agentSet>
                     <vra:agent>
-                        <vra:name href="https://github.com/untamed0">untamed</vra:name>
-                        <vra:role>Website creator</vra:role>
+                        <vra:name href="https://github.com/untamed0">untamed0</vra:name>
+                        <vra:role>website creator</vra:role>
+                    </vra:agent>
+                    <vra:agent>
+                        <vra:name type="corporate">CD Projekt Red</vra:name>
+                        <vra:role>image creator</vra:role>
+                        <vra:role>publisher</vra:role>
                     </vra:agent>
                 </vra:agentSet>
                 <vra:measurementsSet>

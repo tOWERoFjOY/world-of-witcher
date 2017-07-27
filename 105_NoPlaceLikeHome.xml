@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ww:World_of_Witcher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/tOWERoFjOY/world-of-witcher https://raw.githubusercontent.com/tOWERoFjOY/world-of-witcher/master/WorldOfWitcher.xsd"
+    xmlns:ww="https://github.com/tOWERoFjOY/world-of-witcher" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm">
+    <ww:Id>105</ww:Id>
+    <ww:title>
+        <mods:title>No Place Like Home</mods:title>
+    </ww:title>
+    <ww:InUniverseOnly>true</ww:InUniverseOnly>
+    <ww:category>Media</ww:category>
+    
+    <ww:inUniverse>
+        <ww:modsSection>
+            <mods:mods>
+                <mods:name>
+                    <mods:namePart>Geralt of Rivia</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text">Witcher</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:name>
+                    <mods:namePart>Eskel</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text">Witcher</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:name>
+                    <mods:namePart>Lambert</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text">Witcher</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:name>
+                    <mods:namePart>Yennefer of Vengerberg</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text">Sorceress</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:subject>
+                    <mods:geographic>Kaer Mohren</mods:geographic>
+                    <mods:temporal>1272</mods:temporal>
+                    <mods:occupation>Witcher</mods:occupation>
+                </mods:subject>
+            </mods:mods>
+        </ww:modsSection>
+    </ww:inUniverse>
+    
+    <ww:realWorld>
+        <ww:modsSection>
+            <mods:mods>
+                <mods:name type="personal" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/nb2012029652.html">
+                    <mods:namePart>Cockle, Doug</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text">voice actor</mods:roleTerm>
+                        <mods:roleTerm type="text">Geralt of Rivia</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:name>
+                    <mods:namePart>Gough, Denise</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text">voice actor</mods:roleTerm>
+                        <mods:roleTerm type="text">Yennefer</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:name>
+                    <mods:namePart>Clarke Hill, Tom</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text">voice actor</mods:roleTerm>
+                        <mods:roleTerm type="text">Eskel</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:name>
+                    <mods:namePart>Contreras, Christian</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text">voice actor</mods:roleTerm>
+                        <mods:roleTerm type="text">Lambert</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:name type="corporate">
+                    <mods:namePart>CD Projekt Red</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm>Creator</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:name>
+                    <mods:namePart>PhatSteve7</mods:namePart>
+                    <mods:description>Youtube profile that uploaded video capture of scene from Witcher 3</mods:description>
+                </mods:name>
+                <mods:abstract>This scene depicts Geralt and the “younger” witchers of the school of the Wolf, Lambert and Eskel, being reunited and choosing 
+                    to spend their evening drinking, telling stories, and getting into trouble. The scene serves as a comedic break in the action near the end 
+                    of the Witcher 3 game, and explores just how human the mutant witchers can be.</mods:abstract>
+                <mods:typeOfResource>moving image</mods:typeOfResource>
+                <mods:physicalDescription>
+                    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+                    <mods:form type="Technique">screen recording</mods:form>
+                </mods:physicalDescription>
+                <mods:location>
+                    <mods:url>https://www.youtube.com/watch?v=jls8boIDo5I</mods:url>
+                </mods:location>
+                <mods:originInfo>
+                    <mods:dateValid>2017-07-26</mods:dateValid>
+                    <mods:place>
+                        <mods:placeTerm valueURI="https://www.youtube.com/watch?v=jls8boIDo5I">The Witcher 3 Drinking Games with Witchers (Funny Scene)</mods:placeTerm>
+                        <mods:placeTerm>https://www.youtube.com/watch?v=jls8boIDo5I</mods:placeTerm>
+                    </mods:place>
+                    <mods:dateCaptured>2017-07-26</mods:dateCaptured>
+                    <mods:dateIssued>2015-05-25</mods:dateIssued>
+                </mods:originInfo>
+                <mods:recordInfo>
+                    <mods:recordOrigin>Record info was manually transformed into MODS based on digital born object</mods:recordOrigin>
+                </mods:recordInfo>
+                <mods:accessCondition type="use and reproduction" xmlns:xlink="http://www.w3.org/1999/xlink" 
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">This Item is protected by copyright and/or related rights. 
+                    You are free to use this Item in any way that is permitted by the copyright and related rights legislation that 
+                    applies to your use. For other uses you need to obtain permission from the rights-holder(s).
+                </mods:accessCondition>
+            </mods:mods>
+        </ww:modsSection>
+        
+        <ww:dcSection>
+            <dcterms:isPartOf>The Witcher 3: The Wild Hunt</dcterms:isPartOf>
+            <dc:subject xsi:type="dcterms:LCSH">Fantasy</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Video Games</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Role Playing</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Magic</dc:subject>
+        </ww:dcSection>
+        
+        <ww:vraSection>
+            <vra:image>
+                <vra:agentSet>
+                    <vra:agent>
+                        <vra:name type="corporate">CD Projekt Red</vra:name>
+                        <vra:role>creator</vra:role>
+                        <vra:role>publisher</vra:role>
+                    </vra:agent>
+                    <vra:agent>
+                        <vra:name type="corporate">Warner Bros. Interactive Entertainment</vra:name>
+                        <vra:role>publisher</vra:role>
+                    </vra:agent>
+                    <vra:agent>
+                        <vra:name type="corporate">Bandai Namco Entertainment</vra:name>
+                        <vra:role>publisher</vra:role>
+                    </vra:agent>
+                    <vra:agent>
+                        <vra:name type="other" href="http://witcher.wikia.com/wiki/Witcher_Wiki">The Official Witcher Wiki</vra:name>
+                        <vra:role>image owner</vra:role>
+                    </vra:agent>
+                </vra:agentSet>
+                <vra:measurementsSet>
+                    <vra:display>250 mb file size, 640 x 360 pixel resolution</vra:display>
+                    <vra:measurements type="fileSize">250 mb</vra:measurements>
+                    <vra:measurements type="resolution">640 x 360 pixel resolution</vra:measurements>
+                </vra:measurementsSet>
+                <vra:relationSet>
+                    <vra:relation type="imageOf">Collection ID# 105</vra:relation>
+                </vra:relationSet>
+                <vra:rightsSet>
+                    <vra:display>Image is copyrighted product of CD Projekt RED</vra:display>
+                    <vra:rights type="copyrighted" href="http://rightsstatements.org/vocab/InC/1.0/">
+                        <vra:rightsHolder>CD Projekt RED</vra:rightsHolder>
+                    </vra:rights>
+                    <vra:rights type="terms of use" href="https://www.youtube.com/static?template=terms">
+                        <vra:rightsHolder>PhatSteve7 [YouTube Account]</vra:rightsHolder>
+                        <vra:text>YouTube terms of Service, https://www.youtube.com/static?template=terms </vra:text>
+                    </vra:rights>
+                </vra:rightsSet>
+                <vra:sourceSet>
+                    <vra:display href="https://www.youtube.com/watch?v=jls8boIDo5I">Youtube video entitle "The Witcher 3 Drinking Games iwht Witchers (Funny Scene)"</vra:display>
+                    <vra:source href="https://www.youtube.com/watch?v=jls8boIDo5I">
+                        <vra:name>The Witcher 3 Drinking Games iwht Witchers (Funny Scene)</vra:name>
+                    </vra:source>
+                </vra:sourceSet>
+                <vra:techniqueSet>
+                    <vra:technique vocab="AAT" refid="300053161">computer animation</vra:technique>
+                </vra:techniqueSet>
+                <vra:worktypeSet>
+                    <vra:worktype vocab="AAT" refid="300028682">video recordings</vra:worktype>
+                </vra:worktypeSet>
+            </vra:image>
+        </ww:vraSection>
+    </ww:realWorld>
+</ww:World_of_Witcher>

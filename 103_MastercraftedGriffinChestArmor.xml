@@ -127,6 +127,9 @@
             <dc:subject xsi:type="dcterms:LCSH">Fantasy</dc:subject>
             <dc:subject xsi:type="dcterms:LCSH">Video Games</dc:subject>
             <dc:subject xsi:type="dcterms:LCSH">Role Playing</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Mythology</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Mythology, Slavic</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Magic</dc:subject>
             <dc:subject xsi:type="dcterms:LCSH">Armor</dc:subject>
             <dc:subject xsi:type="dcterms:LCSH">Armor, Medieval</dc:subject>
             <dc:subject xsi:type="dcterms:LCSH">Armor in literature</dc:subject>
@@ -138,6 +141,25 @@
         
         <ww:vraSection>
             <vra:image>
+                <vra:agentSet>
+                    <vra:agent>
+                        <vra:name type="corporate">CD Projekt Red</vra:name>
+                        <vra:role>creator</vra:role>
+                        <vra:role>publisher</vra:role>
+                    </vra:agent>
+                    <vra:agent>
+                        <vra:name type="corporate">Warner Bros. Interactive Entertainment</vra:name>
+                        <vra:role>publisher</vra:role>
+                    </vra:agent>
+                    <vra:agent>
+                        <vra:name type="corporate">Bandai Namco Entertainment</vra:name>
+                        <vra:role>publisher</vra:role>
+                    </vra:agent>
+                    <vra:agent>
+                        <vra:name type="other" href="http://www.gosunoob.com/witcher-3/mastercrafted-griffin-gear/">gosnoob.com</vra:name>
+                        <vra:role>image owner</vra:role>
+                    </vra:agent>
+                </vra:agentSet>
                 <vra:measurementsSet>
                     <vra:display>981 x 535 pixels resolution, 283 kb file size</vra:display>
                     <vra:measurements type="fileSize">283 kb</vra:measurements>
@@ -162,9 +184,6 @@
                 <vra:techniqueSet>
                     <vra:technique vocab="AAT" refid="300237903">digital imaging</vra:technique>
                 </vra:techniqueSet>
-                <vra:titleSet>
-                    <vra:title>Mastercrafted Griffin Chest Armor</vra:title>
-                </vra:titleSet>
                 <vra:worktypeSet>
                     <vra:worktype vocab="AAT" refid="300237903">digital image</vra:worktype>
                 </vra:worktypeSet>

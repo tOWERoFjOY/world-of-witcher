@@ -12,7 +12,9 @@
     </ww:title>
     <ww:InUniverseOnly>false</ww:InUniverseOnly>
     <ww:category>Printed materials</ww:category>
+    
     <ww:inUniverse>
+        
         <ww:modsSection>
             <mods:mods>
                 <mods:subject>
@@ -22,7 +24,9 @@
             </mods:mods>
         </ww:modsSection>
     </ww:inUniverse>
+    
     <ww:realWorld>
+        
         <ww:modsSection>
             <mods:mods>
                 <mods:name type="personal" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2013101040">
@@ -75,8 +79,12 @@
                 <mods:note>Title is the republished English translation based on the original Polish edition from 1999</mods:note>
             </mods:mods>
         </ww:modsSection>
+        
         <ww:dcSection>
             <dc:subject xsi:type="dcterms:LCSH">Fantasy</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Magic</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Mythology</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Mythology, Slavic</dc:subject>
             <dc:subject xsi:type="dcterms:LCSH">Monsters in literature</dc:subject>
             <dc:subject xsi:type="dcterms:LCSH">Assassins--Fiction</dc:subject>
             <dc:subject xsi:type="dcterms:LCSH">Fantasy fiction, Polish</dc:subject>
