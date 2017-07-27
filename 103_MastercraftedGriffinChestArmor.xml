@@ -159,6 +159,11 @@
                         <vra:name type="other" href="http://www.gosunoob.com/witcher-3/mastercrafted-griffin-gear/">gosnoob.com</vra:name>
                         <vra:role>image owner</vra:role>
                     </vra:agent>
+                    <vra:agent>
+                        <vra:name type="personal">Sapkowski, Andrzej</vra:name>
+                        <vra:role>Novel writer</vra:role>
+                        <vra:attribution></vra:attribution>
+                    </vra:agent>
                 </vra:agentSet>
                 <vra:measurementsSet>
                     <vra:display>981 x 535 pixels resolution, 283 kb file size</vra:display>

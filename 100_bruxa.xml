@@ -126,6 +126,11 @@
                         <vra:name type="other" href="http://witcher.wikia.com/wiki/Witcher_Wiki">The Official Witcher Wiki</vra:name>
                         <vra:role>image owner</vra:role>
                     </vra:agent>
+                    <vra:agent>
+                        <vra:name type="personal">Sapkowski, Andrzej</vra:name>
+                        <vra:role>Novel writer</vra:role>
+                        <vra:attribution></vra:attribution>
+                    </vra:agent>
                 </vra:agentSet>
                 <vra:dateSet>
                     <vra:date type="creation">

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ww:World_of_Witcher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/tOWERoFjOY/world-of-witcher https://raw.githubusercontent.com/tOWERoFjOY/world-of-witcher/master/WorldOfWitcher.xsd"
+    xmlns:ww="https://github.com/tOWERoFjOY/world-of-witcher" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm">
+    <ww:Id>107</ww:Id>
+    <ww:title>
+        <mods:nonSort>The</mods:nonSort>
+        <mods:title>Northern Kingdoms</mods:title>
+    </ww:title>
+    <ww:InUniverseOnly>false</ww:InUniverseOnly>
+    <ww:category>Places</ww:category>
+    
+    <ww:inUniverse>
+        <ww:modsSection>
+            <mods:mods>
+                <mods:name>
+                    <mods:namePart>Foltest</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text">King of Temeria</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:name>
+                    <mods:namePart>Radovid V</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text">King of Redania</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:name>
+                    <mods:namePart>Foltest</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text">King of Temeria</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:name>
+                    <mods:namePart>Henselt</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text">King of Kaedwen</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:abstract>>A political map showing the Northern Kingdoms just prior to the Nilfgardian invasion in 1271 
+                    as chronicled in "Witcher 2: Assassin of Kings." Includes topographical descriptions, city names, political borders
+                    as well as symbology depicting coats of arms for various rulers in the Witcher universe as well as minature
+                    portraits of current (i.e. living) rulers</mods:abstract>
+                <mods:physicalDescription>
+                    <mods:extent>Contains symbology for fortresses, cities, and towns within each of the Northern Realms. Also includes areas designated as 
+                        "War-Torn"/"In-Revolt" as well as protectorates/spheres-of-influence. National borders delineated with dashed lines. Locations of prominent/historical battles. 
+                        Topography and natural features shown with artistic symbology, not true topography with gradients or relief mapping. Portraits also show the Norther Kings
+                    (Foltest, Radovid V, and Henselt) as well as the absent throne in Aedirn</mods:extent>
+                </mods:physicalDescription>
+                <mods:subject>
+                    <mods:geographic>Kaer Morhen</mods:geographic>
+                    <mods:geographic>Flotsam</mods:geographic>
+                    <mods:geographic>Loc Muinne</mods:geographic>
+                    <mods:hierarchicalGeographic>
+                        <mods:country>Redania</mods:country>
+                        <mods:city>Tretogor</mods:city>
+                        <mods:city>Novigrad</mods:city>
+                        <mods:city>Oxenfurt</mods:city>
+                    </mods:hierarchicalGeographic>
+                    <mods:hierarchicalGeographic>
+                        <mods:country>Temeria</mods:country>
+                        <mods:city>Vizima</mods:city>
+                        <mods:city>La Valette</mods:city>
+                    </mods:hierarchicalGeographic>
+                    <mods:hierarchicalGeographic>
+                        <mods:country>Kaedwen</mods:country>
+                        <mods:city>Ard Carraigh</mods:city>
+                        <mods:area>Kaer Morhen</mods:area>
+                    </mods:hierarchicalGeographic>
+                    <mods:hierarchicalGeographic>
+                        <mods:country>Aedirn</mods:country>
+                        <mods:city>Vengerberg</mods:city>
+                    </mods:hierarchicalGeographic>
+                    <mods:temporal>1271</mods:temporal>
+                </mods:subject>
+            </mods:mods>
+        </ww:modsSection>
+    </ww:inUniverse>
+    
+    <ww:realWorld>
+        <ww:modsSection>
+            <mods:mods>
+                <mods:name type="personal" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2013101040">
+                    <mods:namePart>Sapkowski, Andrzej</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text">Novel author</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:name type="corporate">
+                    <mods:namePart>CD Projekt Red</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text">Map creater</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:abstract>
+                    A political map showing the Northern Kingdoms just prior to the Nilfgardian invasion in 1271 
+                    as chronicled in "Witcher 2: Assassin of Kings." Includes topographical descriptions, city names, political borders
+                    as well as symbology depicting coats of arms for various rulers in the Witcher universe as well as minature
+                    portraits of current (i.e. living) rulers
+                </mods:abstract>
+                <mods:typeOfResource>cartographic</mods:typeOfResource>
+                <mods:physicalDescription>
+                    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+                </mods:physicalDescription>
+                <mods:location>
+                    <mods:url>https://vignette3.wikia.nocookie.net/witcher/images/1/17/Northernkingdoms_full.jpg/revision/latest?cb=20110530105156</mods:url>
+                </mods:location>
+                <mods:originInfo>
+                    <mods:dateCaptured>2017-07-26</mods:dateCaptured>
+                    <mods:publisher>The Official Witcher Wikia</mods:publisher>
+                    <mods:place>
+                        <mods:placeTerm>https://vignette3.wikia.nocookie.net/witcher/images/1/17/Northernkingdoms_full.jpg/revision/latest?cb=20110530105156</mods:placeTerm>
+                        <mods:placeTerm>http://witcher.wikia.com/wiki/File:Northernkingdoms_full.jpg</mods:placeTerm>
+                    </mods:place>
+                </mods:originInfo>
+                <mods:recordInfo>
+                    <mods:recordContentSource>Record info was manually transformed into MODS based on digital born objects at the Official Witcher Wikia</mods:recordContentSource>
+                    <mods:recordContentSource>http://witcher.wikia.com/wiki/Northern_Kingdoms</mods:recordContentSource>
+                </mods:recordInfo>
+                <mods:accessCondition type="use and reproduction" xmlns:xlink="http://www.w3.org/1999/xlink" 
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">This Item is protected by copyright and/or related rights. 
+                    You are free to use this Item in any way that is permitted by the copyright and related rights legislation that 
+                    applies to your use. For other uses you need to obtain permission from the rights-holder(s).
+                </mods:accessCondition>
+                <mods:accessCondition type="use and reproduction" xmlns:xlink="http://www.w3.org/1999/xlink" 
+                    xlink:href="http://www.wikia.com/Terms_of_use">Refer to the Official Witcher Wikia terms of use
+                </mods:accessCondition>
+            </mods:mods>
+        </ww:modsSection>
+        
+        <ww:dcSection>
+            <dc:format>Political map</dc:format>
+            <dcterms:isPartOf>The Witcher 2: Assassin of Kings</dcterms:isPartOf>
+            <dc:subject xsi:type="dcterms:LCSH">Fantasy</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Video Games</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Role Playing</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Cartography</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Geography, Medieval--Maps</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Fantasy fiction, Polish</dc:subject>
+        </ww:dcSection>
+        
+        <ww:vraSection>
+            <vra:image>
+                <vra:agentSet>
+                    <vra:agent>
+                        <vra:name type="personal">Sapkowski, Andrzej</vra:name>
+                        <vra:role>Novel writer</vra:role>
+                        <vra:attribution></vra:attribution>
+                    </vra:agent>
+                    <vra:agent>
+                        <vra:name type="corporate">CD Projekt Red</vra:name>
+                        <vra:role>image creator</vra:role>
+                        <vra:role>publisher</vra:role>
+                    </vra:agent>
+                    <vra:agent>
+                        <vra:name type="corporate">Warner Bros. Interactive Entertainment</vra:name>
+                        <vra:role>publisher</vra:role>
+                    </vra:agent>
+                    <vra:agent>
+                        <vra:name type="corporate">Bandai Namco Entertainment</vra:name>
+                        <vra:role>publisher</vra:role>
+                    </vra:agent>
+                    <vra:agent>
+                        <vra:name type="other" href="http://witcher.wikia.com/wiki/Witcher_Wiki/">The Official Witcher Wikia</vra:name>
+                        <vra:role>image owner</vra:role>
+                        <vra:attribution>http://witcher.wikia.com/wiki/Witcher_Wiki/</vra:attribution>
+                    </vra:agent>
+                </vra:agentSet>
+                <vra:measurementsSet>
+                    <vra:display>5,787 x 4,134 pixels, file size: 5.33 MB</vra:display>
+                    <vra:measurements type="fileSize">5.33 MB</vra:measurements>
+                    <vra:measurements type="resolution">5,787 x 4,134 pixels</vra:measurements>
+                </vra:measurementsSet>
+                <vra:relationSet>
+                    <vra:relation type="image of">collection ID# 107</vra:relation>
+                </vra:relationSet>
+                <vra:rightsSet>
+                    <vra:display>Image is copyrighted product of CD Projekt RED</vra:display>
+                    <vra:rights type="copyrighted" href="http://rightsstatements.org/vocab/InC/1.0/">
+                        <vra:rightsHolder>CD Projekt RED</vra:rightsHolder>
+                    </vra:rights>
+                </vra:rightsSet>
+                <vra:sourceSet>
+                    <vra:display>http://witcher.wikia.com/wiki/File:Northernkingdoms_full.jpg</vra:display>
+                    <vra:source href="http://witcher.wikia.com/wiki/File:Northernkingdoms_full.jpg">
+                        <vra:name>Northernkingdoms full.jpg at the Official Witcher Wikia</vra:name>
+                    </vra:source>
+                </vra:sourceSet>
+                <vra:techniqueSet>
+                    <vra:technique vocab="AAT" refid="300237903">digital imaging</vra:technique>
+                </vra:techniqueSet>
+                <vra:worktypeSet>
+                    <vra:worktype vocab="AAT" refid="300237903">digital image</vra:worktype>
+                </vra:worktypeSet>
+            </vra:image>
+        </ww:vraSection>
+    </ww:realWorld>
+</ww:World_of_Witcher>

@@ -136,6 +136,11 @@
             <vra:image>
                 <vra:agentSet>
                     <vra:agent>
+                        <vra:name type="personal">Sapkowski, Andrzej</vra:name>
+                        <vra:role>Novel writer</vra:role>
+                        <vra:attribution></vra:attribution>
+                    </vra:agent>
+                    <vra:agent>
                         <vra:name type="corporate">CD Projekt Red</vra:name>
                         <vra:role>creator</vra:role>
                         <vra:role>publisher</vra:role>

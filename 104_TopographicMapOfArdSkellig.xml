@@ -130,6 +130,14 @@
                         <vra:role>image creator</vra:role>
                         <vra:role>publisher</vra:role>
                     </vra:agent>
+                    <vra:agent>
+                        <vra:name type="corporate">Warner Bros. Interactive Entertainment</vra:name>
+                        <vra:role>publisher</vra:role>
+                    </vra:agent>
+                    <vra:agent>
+                        <vra:name type="corporate">Bandai Namco Entertainment</vra:name>
+                        <vra:role>publisher</vra:role>
+                    </vra:agent>
                 </vra:agentSet>
                 <vra:measurementsSet>
                     <vra:display>500 x 310 pixels resolution, 154 kb file size</vra:display>
