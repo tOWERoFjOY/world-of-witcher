@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ww:World_of_Witcher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/tOWERoFjOY/world-of-witcher https://raw.githubusercontent.com/tOWERoFjOY/world-of-witcher/master/WorldOfWitcher.xsd"
+    xmlns:ww="https://github.com/tOWERoFjOY/world-of-witcher" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm">
+    <ww:Id>109</ww:Id>
+    <ww:title>
+        <mods:title lang="pol" >Ostatnie Zyczenie</mods:title>
+    </ww:title>
+    <ww:title type="translated">
+        <mods:title lang="eng">The Last Wish</mods:title>
+    </ww:title>
+    <ww:InUniverseOnly>false</ww:InUniverseOnly>
+    <ww:category>Printed materials</ww:category>
+    
+    <ww:inUniverse>
+        <ww:modsSection>
+            <mods:mods>
+                <mods:subject>
+                    <mods:geographic>Rinde</mods:geographic>
+                    <mods:geographic>Cintra</mods:geographic>
+                    <mods:geographic>Blaviken</mods:geographic>
+                    <mods:hierarchicalGeographic>
+                        <mods:country>Temeria</mods:country>
+                        <mods:city>Vizima</mods:city>
+                    </mods:hierarchicalGeographic>
+                    <mods:temporal>1250</mods:temporal>
+                </mods:subject>
+            </mods:mods>
+        </ww:modsSection>
+    </ww:inUniverse>
+    
+    <ww:realWorld>
+        <ww:modsSection>
+            <mods:mods>
+                <mods:name type="personal" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2013101040">
+                    <mods:namePart>Sapkowski, Andrzej</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text">creator</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:name type="personal" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n94050183">
+                    <mods:namePart>Stok, Danusia</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text">translator</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:abstract>Geralt of Rivia, a witcher, uses his vast sorcerous powers to hunt down the monsters that threaten the world, but he soon 
+                    discovers that not every monstrous-looking creature is evil, and not everything beautiful is good.</mods:abstract>
+                <mods:typeOfResource>text</mods:typeOfResource>
+                <mods:genre authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">Fiction</mods:genre>
+                <mods:genre authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">Fantasy</mods:genre>
+                <mods:originInfo>
+                    <mods:publisher>Wydawnicza NOWA</mods:publisher>
+                    <mods:place>
+                        <mods:placeTerm type="text">Warsaw</mods:placeTerm>
+                    </mods:place>
+                    <mods:dateIssued>1993</mods:dateIssued>
+                </mods:originInfo>
+                <mods:language>
+                    <mods:languageTerm authority="iso639-2b" type="code" 
+                        authorityURI="http://id.loc.gov/vocabulary/iso639-2" 
+                        valueURI="http://id.loc.gov/vocabulary/iso639-2/eng">eng</mods:languageTerm>
+                    <mods:languageTerm authority="iso639-2b" type="code" 
+                        authorityURI="http://id.loc.gov/vocabulary/iso639-2" 
+                        valueURI="http://id.loc.gov/vocabulary/iso639-2/pol.html">pol</mods:languageTerm>
+                </mods:language>
+                <mods:physicalDescription>
+                    <mods:extent supplied="yes">288 pages</mods:extent>
+                </mods:physicalDescription>
+                <mods:subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects"><mods:genre>Fantasy fiction, Polish</mods:genre></mods:subject>
+                <mods:recordInfo>
+                    <mods:recordContentSource authority="oclcorg">UPM</mods:recordContentSource>
+                    <mods:recordOrigin>Record info was manually transformed into MODS from MARC record from OPAC</mods:recordOrigin>
+                </mods:recordInfo>
+                <mods:accessCondition type="use and reproduction" xmlns:xlink="http://www.w3.org/1999/xlink" 
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">This Item is protected by copyright and/or related rights. 
+                    You are free to use this Item in any way that is permitted by the copyright and related rights legislation that 
+                    applies to your use. For other uses you need to obtain permission from the rights-holder(s).
+                </mods:accessCondition>
+            </mods:mods>
+        </ww:modsSection>
+        <ww:dcSection>
+            <ww:dcSection>
+                <dc:subject xsi:type="dcterms:LCSH">Fantasy</dc:subject>
+                <dc:subject xsi:type="dcterms:LCSH">Magic</dc:subject>
+                <dc:subject xsi:type="dcterms:LCSH">Mythology</dc:subject>
+                <dc:subject xsi:type="dcterms:LCSH">Mythology, Slavic</dc:subject>
+                <dc:subject xsi:type="dcterms:LCSH">Monsters in literature</dc:subject>
+                <dc:subject xsi:type="dcterms:LCSH">Assassins--Fiction</dc:subject>
+                <dc:subject xsi:type="dcterms:LCSH">Fantasy fiction, Polish</dc:subject>
+                <dc:subject xsi:type="dcterms:LCSH">Paranormal Fiction</dc:subject>
+                <dc:subject xsi:type="dcterms:LCSH">Kings and rulers, Medieval</dc:subject>
+                <dc:subject xsi:type="dcterms:LCSH">Kings and rulers in literature</dc:subject>
+                <dc:subject xsi:type="dcterms:LCSH">Fiction, Medieval</dc:subject>
+            </ww:dcSection>
+        </ww:dcSection>
+    </ww:realWorld>
+</ww:World_of_Witcher>
