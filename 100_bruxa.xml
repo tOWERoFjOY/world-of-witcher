@@ -31,7 +31,7 @@
                     bite their prey and drink its blood once it is weakened, so every witcher who expects to encounter such a monster should swallow a Black Blood potion beforehand. 
                     Bruxae are also known for their sonic attacks, which knock down and stun their prey.
                 </mods:abstract>
-                <mods:subject> <!-- I use MODS subject to show monster type type and the geographic locations/places the object/entity has been in the game -->
+                <mods:subject> 
                     <mods:genre>Vampire</mods:genre>
                     <mods:geographic>House of the Queen of the Night</mods:geographic>
                     <mods:geographic>Swamp cemetary</mods:geographic>
@@ -48,15 +48,14 @@
             </mods:mods>
         </ww:modsSection>
         
-        <ww:dcSection> <!-- Use this section to show Beast type and timeframe relative to appearence in games (might include first appearence in book) -->
+        <ww:dcSection> 
             <dc:subject>Monster</dc:subject>
-        </ww:dcSection>   
+        </ww:dcSection>  
+        
+        
     </ww:inUniverse>
     
-    
     <ww:realWorld>
-        <!-- I use the MODs section to give credit to Sapkowski's creation within the universe since it's first introduced in The Last Wish, Also source for Beastiary info 
-        in Off Witcher Wikia-->
         <ww:modsSection> 
             <mods:mods>
                 <mods:name>
@@ -139,7 +138,7 @@
                     <vra:measurements type="resolution">654 x 727 pixels</vra:measurements>
                 </vra:measurementsSet>
                 <vra:relationSet>
-                    <vra:relation>collection ID# 100</vra:relation>
+                    <vra:relation type="image of">collection ID# 100</vra:relation>
                 </vra:relationSet>
                 <vra:rightsSet>
                     <vra:rights type="copyrighted" source="http://www.wikia.com/Terms_of_use">
