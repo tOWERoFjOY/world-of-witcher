@@ -112,6 +112,7 @@
             <dc:subject xsi:type="dcterms:LCSH">Video Games</dc:subject>
             <dc:subject xsi:type="dcterms:LCSH">Role Playing</dc:subject>
             <dc:subject xsi:type="dcterms:LCSH">Topographic Maps</dc:subject>
+            <dcterms:isReferencedBy>Mastercrafted Griffin Chest Armor</dcterms:isReferencedBy>
         </ww:dcSection>
         
         <ww:vraSection>
