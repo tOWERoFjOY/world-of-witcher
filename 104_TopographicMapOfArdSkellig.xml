@@ -93,6 +93,9 @@
                 <mods:originInfo>
                     <mods:dateCaptured>2017-07-26</mods:dateCaptured>
                     <mods:publisher>untamed0 [GitHub account]</mods:publisher>
+                    <mods:place>
+                        <mods:placeTerm>http://www.witcher3map.com/s/#5/-25.839/24.983/m=-22.533,17.996</mods:placeTerm>
+                    </mods:place>
                 </mods:originInfo>
                 <mods:recordInfo>
                     <mods:recordOrigin>Record manually crafted using withcer3map.com as reference</mods:recordOrigin>
