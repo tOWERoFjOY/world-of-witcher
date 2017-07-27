@@ -3,12 +3,12 @@
     xsi:schemaLocation="https://github.com/tOWERoFjOY/world-of-witcher https://raw.githubusercontent.com/tOWERoFjOY/world-of-witcher/master/WorldOfWitcher.xsd"
     xmlns:ww="https://github.com/tOWERoFjOY/world-of-witcher" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
     xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm">
-    <ww:Id>100</ww:Id>
+    <ww:Id>108</ww:Id>
     <ww:title>
-        <mods:title>Bruxa</mods:title>
+        <mods:title>Leshen</mods:title>
     </ww:title>
     <ww:title type="alternative">
-        <mods:title>Bruxae</mods:title>
+        <mods:title>Leshy</mods:title>
     </ww:title>
     <ww:InUniverseOnly>true</ww:InUniverseOnly>
     <ww:category>Beast</ww:category>
@@ -17,28 +17,26 @@
         <ww:modsSection>
             <mods:mods>
                 <mods:abstract>
-                    Fortunately for us all, bruxae are rare creatures. Most live far from population centers, for they care greatly for their own safety and make their lairs in places 
-                    where they cannot be taken by surprise. Those who decide to live near men avoid crowds and emerge from their shelters only at night. When they do, one could almost 
-                    mistake them for delayed travelers hurrying towards their night’s lodging, yet subtle details give them away: their close ties to birds, their piercing voices and 
-                    the breathtaking speed of their movements. Bruxae are far swifter and stronger than men, but their greatest asset is their ability to turn invisible.
-                    Bruxae dart about with uncanny speed, and with their power of invisibility they can easily confuse opponents and attack unexpectedly or from behind. 
-                    Thus when fighting these vampires the Moon Dust bomb is a great aid – while it cannot eliminate the vampire’s invisibility altogether, it can make it easier to track 
-                    its motions. A generous smearing of vampire oil is also effective.
-                    Bruxae use their sharp claws to attack and can easily break through an opponent’s guard by buffeting him with a hail of blows from all directions. They will try to
-                    bite their prey and drink its blood once it is weakened, so every witcher who expects to encounter such a monster should swallow a Black Blood potion beforehand. 
-                    Bruxae are also known for their sonic attacks, which knock down and stun their prey.
+                    Humans have long been fascinated by the wild wood — living in its vicinity was the source of tales about creatures ferocious and benign, 
+                    friendly and hostile. As they started to settle deeper and deeper into the forests, respect for the unknown diminished. Lumber was gathered, 
+                    stone abodes were built. As the pestilence that was humanity grew bigger, so did the forest’s and its inhabitants’ wrath.
+                    
+                    At the heart of the forest lies a secret. In a place born of darkness and primeval nature, resides a mighty and terrifying guardian. Immune 
+                    to human steel, it is believed the leshen is nature’s way of protecting the forest and the animals that live within it from the threat humans 
+                    started to pose upon their ravaging expansion deeper into the lands.
+                    
+                    Along with the animals it commands, the leshen became a force to be reckoned with. Sometimes worshipped, this creature can heal other woodland 
+                    animals and summon nekkers or crows to protect the forest. Its attacks are slow, but deadly — be cautious not to get shackled by its underground 
+                    roots.
                 </mods:abstract>
                 <mods:subject> 
-                    <mods:genre>Vampire</mods:genre>
-                    <mods:geographic>House of the Queen of the Night</mods:geographic>
-                    <mods:geographic>Swamp cemetary</mods:geographic>
-                    <mods:geographic>Old manor catacombs</mods:geographic>
-                    <mods:geographic>Raven's crypt</mods:geographic>
-                    <mods:geographic>Elven Ruins</mods:geographic>
-                    <mods:geographic>Bandit hideout</mods:geographic>
-                    <mods:geographic>Crypt of Mages</mods:geographic>
+                    <mods:genre>Relict</mods:genre>
                     <mods:hierarchicalGeographic>
-                        <mods:province>Toussaint</mods:province>
+                        <mods:country>Redania</mods:country>
+                    </mods:hierarchicalGeographic>
+                    <mods:hierarchicalGeographic>
+                        <mods:country>Temeria</mods:country>
+                        <mods:province>Velen</mods:province>
                     </mods:hierarchicalGeographic>
                     <mods:temporal>1272-1275</mods:temporal>
                 </mods:subject>
@@ -47,13 +45,11 @@
         
         <ww:dcSection> 
             <dc:subject>Monster</dc:subject>
-        </ww:dcSection>  
-        
-        
+        </ww:dcSection> 
     </ww:inUniverse>
     
     <ww:realWorld>
-        <ww:modsSection> 
+        <ww:modsSection>
             <mods:mods>
                 <mods:name type="personal" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2013101040">
                     <mods:namePart>Sapkowski, Andrzej</mods:namePart>
@@ -68,12 +64,13 @@
                         <mods:roleTerm>Publisher</mods:roleTerm>
                     </mods:role>
                 </mods:name>
+                <mods:abstract>A Bruxa, a name derived from Portuguese folklore, is a type of female vampire Geralt encounters throughout the Witcher game universe.</mods:abstract>
                 <mods:originInfo>
-                    <mods:dateCreated>1993</mods:dateCreated>
+                    <mods:dateCreated>2015</mods:dateCreated>
                     <mods:dateCaptured>2017-07-25</mods:dateCaptured>
                     <mods:place>
-                        <mods:placeTerm>Bruxa entry in the Official Witcher Wikia</mods:placeTerm>
-                        <mods:placeTerm valueURI="http://witcher.wikia.com/wiki/Bruxa">http://witcher.wikia.com/wiki/Bruxa</mods:placeTerm>
+                        <mods:placeTerm>Leshen entry in the Official Witcher Wikia</mods:placeTerm>
+                        <mods:placeTerm valueURI="http://witcher.wikia.com/wiki/Leshy">http://witcher.wikia.com/wiki/Leshy</mods:placeTerm>
                     </mods:place>
                 </mods:originInfo>
                 <mods:recordInfo>
@@ -100,12 +97,7 @@
             <dc:subject xsi:type="dcterms:LCSH">Monsters and myths</dc:subject>
             <dc:subject xsi:type="dcterms:LCSH">Monsters in mass media</dc:subject>
             <dc:subject xsi:type="dcterms:LCSH">Paranormal Fiction</dc:subject>
-            <dcterms:isReferencedBy>"The Last Wish"</dcterms:isReferencedBy>
-            <dcterms:isReferencedBy>"A Night to Remember"</dcterms:isReferencedBy>
-            <dcterms:isReferencedBy xsi:type="dcterms:URI">https://www.youtube.com/watch?v=ehjJ614QfeM</dcterms:isReferencedBy>
             <dcterms:isPartOf>The Witcher 3: The Wild Hunt</dcterms:isPartOf>
-            <dcterms:isPartOf>The Witcher 2: Assassins of Kings</dcterms:isPartOf>
-            <dcterms:isPartOf>The Witcher </dcterms:isPartOf>
             <dc:language xsi:type="dcterms:ISO639-2">eng</dc:language> 
         </ww:dcSection>
         
@@ -142,12 +134,12 @@
                     </vra:date>
                 </vra:dateSet>
                 <vra:measurementsSet>
-                    <vra:display>654 x 727 pixels resolution, 238 kb file size</vra:display>
-                    <vra:measurements type="fileSize">238 kb</vra:measurements>
-                    <vra:measurements type="resolution">654 x 727 pixels</vra:measurements>
+                    <vra:display>431 x 479 pixels resolution, 344 kb file size</vra:display>
+                    <vra:measurements type="fileSize">344 kb</vra:measurements>
+                    <vra:measurements type="resolution">431 x 479 pixels</vra:measurements>
                 </vra:measurementsSet>
                 <vra:relationSet>
-                    <vra:relation type="image of">collection ID# 100</vra:relation>
+                    <vra:relation type="image of">collection ID# 108</vra:relation>
                 </vra:relationSet>
                 <vra:rightsSet>
                     <vra:rights type="copyrighted" source="http://www.wikia.com/Terms_of_use">
@@ -156,21 +148,22 @@
                     </vra:rights>
                 </vra:rightsSet>
                 <vra:sourceSet>
-                    <vra:display href="http://witcher.wikia.com/wiki/File:Tw3_journal_bruxa.png">Bruxa image from Witcher 3 Bestiary/Journal</vra:display>
-                    <vra:source href="http://witcher.wikia.com/wiki/File:Tw3_journal_bruxa.png">
-                        <vra:name>Tw3 journal bruxa.png</vra:name>
+                    <vra:display href="http://witcher.wikia.com/wiki/File:Tw3_journal_leshen.png">Leshen image from Witcher 3 Bestiary/Journal</vra:display>
+                    <vra:source href="http://witcher.wikia.com/wiki/File:Tw3_journal_leshen.png">
+                        <vra:name>Tw3 journal leshen.png</vra:name>
                     </vra:source>
                 </vra:sourceSet>
                 <vra:techniqueSet>
                     <vra:technique vocab="AAT" refid="300237903">digital imaging</vra:technique>
                 </vra:techniqueSet>
                 <vra:titleSet>
-                    <vra:title>Bruxa image from Witcher 3 Bestiary/Journal</vra:title>
+                    <vra:title>Leshen image from Witcher 3 Bestiary/Journal</vra:title>
                 </vra:titleSet>
                 <vra:worktypeSet>
                     <vra:worktype vocab="AAT" refid="300237903">digital image</vra:worktype>
                 </vra:worktypeSet>
             </vra:image>
         </ww:vraSection>
+        
     </ww:realWorld>
 </ww:World_of_Witcher>
