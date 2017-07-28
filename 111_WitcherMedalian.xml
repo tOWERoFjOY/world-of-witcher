@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ww:World_of_Witcher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/tOWERoFjOY/world-of-witcher https://raw.githubusercontent.com/tOWERoFjOY/world-of-witcher/master/WorldOfWitcher.xsd"
+    xmlns:ww="https://github.com/tOWERoFjOY/world-of-witcher" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm">
+    <ww:Id>111</ww:Id>
+    <ww:title>
+        <mods:title>Geralt's Wolf Medallion</mods:title>
+    </ww:title>
+    <ww:InUniverseOnly>true</ww:InUniverseOnly>
+    <ww:category>Gear</ww:category>
+    <ww:inUniverse>
+        <ww:modsSection>
+            <mods:mods>
+                <mods:name type="personal">
+                    <mods:namePart>Geralt of Rivia</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text">witcher</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:name type="personal">
+                    <mods:namePart>Vesemir</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text">witcher</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:subject>
+                    <mods:geographic>Kaer Mohren</mods:geographic>
+                    <mods:temporal>1268</mods:temporal>
+                </mods:subject>
+            </mods:mods>
+        </ww:modsSection>
+        
+        <ww:vraSection>
+            <vra:work>
+                <vra:agentSet>
+                    <vra:display href="http://witcher.wikia.com/wiki/Vesemir">Vesemir of Kaer Morhen</vra:display>
+                    <vra:agent>
+                        <vra:name>Vesemir</vra:name>
+                        <vra:dates>
+                            <vra:latestDate>1272</vra:latestDate>
+                        </vra:dates>
+                        <vra:culture>Witcher</vra:culture>
+                        <vra:culture>School of the Wolf</vra:culture>
+                        <vra:role>Creater</vra:role>
+                    </vra:agent>
+                </vra:agentSet>
+                <vra:culturalContextSet>
+                    <vra:culturalContext>Witcher</vra:culturalContext>
+                    <vra:culturalContext>School of the Wolf</vra:culturalContext>
+                </vra:culturalContextSet>
+                <vra:dateSet>
+                    <vra:display>1268</vra:display>
+                    <vra:date type="creation">
+                        <vra:earliestDate>1268</vra:earliestDate>
+                    </vra:date>
+                </vra:dateSet>
+                <vra:descriptionSet>
+                    <vra:display>"The witcher medallion is not only an insignia of our profession, it is also one of its tools. It has numerous useful capabilities that are accessible, of course, 
+                        only to one who possesses the necessary knowledge and training. First of all, it reacts to the presence of sorcerous auras in the immediate surroundings, making us aware 
+                        of nearby spellcasting, active illusions, or magical creatures. It also warns the owner of sudden dangers, thus providing an additional moment to react. Keep in mind, 
+                        though, that the medallion is not infallible. A very strong magical aura, such as those found in Places of Power or during the solstices, can provoke aberrant reactions. 
+                        In large cities, where people widely use simple magical amulets or sorcerous alarm systems to protect their homes, coin, or ruttish wives, the medallion can also behave abnormally."</vra:display>
+                    <vra:description source="Witcher Official Wikia ; http://witcher.wikia.com/wiki/Witcher_medallion (accessed 6/27/2017)">"The witcher medallion is not only an insignia of our profession, 
+                        it is also one of its tools. It has numerous useful capabilities that are accessible, of course, only to one who possesses the necessary knowledge and training. First of all, it 
+                        reacts to the presence of sorcerous auras in the immediate surroundings, making us aware of nearby spellcasting, active illusions, or magical creatures. It also warns the owner of 
+                        sudden dangers, thus providing an additional moment to react. Keep in mind, though, that the medallion is not infallible. A very strong magical aura, such as those found in Places
+                        of Power or during the solstices, can provoke aberrant reactions. In large cities, where people widely use simple magical amulets or sorcerous alarm systems to protect their homes, 
+                        coin, or ruttish wives, the medallion can also behave abnormally."</vra:description>
+                </vra:descriptionSet>
+                <vra:locationSet>
+                    <vra:display>Kaer Morhen, Kaedwen, Northern Realms</vra:display>
+                    <vra:location type="other">
+                        <vra:name type="geographic" extent="region">Northern Realms</vra:name>
+                        <vra:name type="geographic" extent="region">Kaedwen</vra:name>
+                        <vra:name type="geographic" extent="region">Kaer Morhen</vra:name>
+                    </vra:location>
+                </vra:locationSet>
+                <vra:materialSet>
+                    <vra:display>silver, gems, magic</vra:display>
+                    <vra:material>silver</vra:material>
+                    <vra:material>gems</vra:material>
+                    <vra:material>magic</vra:material>
+                </vra:materialSet>
+                <vra:measurementsSet>
+                    <vra:measurements>2x1.75x1 inches</vra:measurements>
+                </vra:measurementsSet>
+                <vra:rightsSet>
+                    <vra:display>Refer to terms of use outlined at http://www.wikia.com/Terms_of_use. Data/information on witcher universe is a copyrighted interpretation 
+                        of the Witcher Series universe. Image is copyrighted product of CD Projekt RED</vra:display>
+                    <vra:rights type="copyrighted" href="http://rightsstatements.org/vocab/InC/1.0/">
+                        <vra:rightsHolder>CD Projekt RED</vra:rightsHolder>
+                    </vra:rights><vra:rights type="copyrighted" href="http://www.wikia.com/Terms_of_use">
+                        <vra:rightsHolder>The Official Witcher Wikia</vra:rightsHolder>
+                        <vra:text>Refer to terms of use outlined at http://www.wikia.com/Terms_of_use. Data/information on witcher universe is a copyrighted interpretation 
+                            of the Witcher Series universe</vra:text>
+                    </vra:rights>
+                </vra:rightsSet>
+                <vra:sourceSet>
+                    <vra:display href="http://witcher.wikia.com/wiki/Witcher_medallion">The Official Witcher Wikia entry for "Witcher Medallion"</vra:display>
+                    <vra:source href="http://witcher.wikia.com/wiki/Witcher_medallion">
+                        <vra:name>The Official Witcher Wikia entry for "Witcher Medallion"</vra:name>
+                    </vra:source>
+                </vra:sourceSet>
+                <vra:subjectSet>
+                    <vra:display>mythology; armor (protective wear)</vra:display>
+                    <vra:subject>
+                        <vra:term type="iconographicTopic" vocab="AAT" refid="300055985">mythology</vra:term>
+                        <vra:term type="descriptiveTopic" vocab="AAT" refid="300077357">medallions (medals)</vra:term>
+                    </vra:subject>
+                </vra:subjectSet>
+                <vra:techniqueSet>
+                    <vra:display>Forge welding</vra:display>
+                    <vra:technique vocab="AAT" refid="300054053">silversmithing</vra:technique>
+                </vra:techniqueSet>
+            </vra:work>
+        </ww:vraSection>
+    </ww:inUniverse>
+    
+    <ww:realWorld>
+        <ww:modsSection>
+            <mods:mods>
+                <mods:name type="corporate">
+                    <mods:namePart>CD Projekt Red</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm>Creator</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:name type="personal" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2013101040">
+                    <mods:namePart>Sapkowski, Andrzej</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text">Novel author</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:abstract>The witchers' medallion is a silver symbol of the witchers' profession. Each one is shaped to represent the school a witcher comes from. 
+                    It is sensitive to magic, vibrating and tugging on its chain when spells are being cast or magical beings, like genies, are present. This magic 
+                    medallion is given to every young witcher candidate who has passed the Trial of the Grasses. The origin of the first medallions is unknown, though 
+                    it is assumed they were made in the magic forge at Kaer Morhen. The medallions vibrate in response to magic in all its forms, including curses, 
+                    charms, and spells. They also warn of lurking monsters born of magic or magic experimentation. However, witcher medallions are not foolproof, certain 
+                    monsters such as dopplers and higher vampires remain undetected whenever in range of a medallion.</mods:abstract>
+                <mods:originInfo>
+                    <mods:dateIssued>2105-05-19</mods:dateIssued>
+                </mods:originInfo>
+                <mods:recordInfo>
+                    <mods:recordContentSource>Record info was manually transformed into MODS based on digital born objects at the Official Witcher Wikia</mods:recordContentSource>
+                    <mods:recordContentSource>http://witcher.wikia.com/wiki/Witcher_medallion</mods:recordContentSource>
+                </mods:recordInfo>
+                <mods:accessCondition type="use and reproduction" xmlns:xlink="http://www.w3.org/1999/xlink" 
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">This Item is protected by copyright and/or related rights. 
+                    You are free to use this Item in any way that is permitted by the copyright and related rights legislation that 
+                    applies to your use. For other uses you need to obtain permission from the rights-holder(s).
+                </mods:accessCondition>
+            </mods:mods>
+        </ww:modsSection>
+            
+        <ww:dcSection>
+            <dc:subject xsi:type="dcterms:LCSH">Fantasy</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Video Games</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Role Playing</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Magic</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Silver jewelry</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Magic paraphernalia</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Wolves in art</dc:subject>
+        </ww:dcSection>
+        
+        <ww:vraSection>
+            <vra:image>
+                <vra:agentSet>
+                    <vra:agent>
+                        <vra:name type="corporate">CD Projekt Red</vra:name>
+                        <vra:role>creator</vra:role>
+                        <vra:role>publisher</vra:role>
+                    </vra:agent>
+                    <vra:agent>
+                        <vra:name type="corporate">Warner Bros. Interactive Entertainment</vra:name>
+                        <vra:role>publisher</vra:role>
+                    </vra:agent>
+                    <vra:agent>
+                        <vra:name type="corporate">Bandai Namco Entertainment</vra:name>
+                        <vra:role>publisher</vra:role>
+                    </vra:agent>
+                    <vra:agent>
+                        <vra:name type="other" href="http://witcher.wikia.com/wiki/Witcher_Wiki">The Official Witcher Wiki</vra:name>
+                        <vra:role>image owner</vra:role>
+                    </vra:agent>
+                    <vra:agent>
+                        <vra:name type="personal">Sapkowski, Andrzej</vra:name>
+                        <vra:role>Novel writer</vra:role>
+                        <vra:attribution></vra:attribution>
+                    </vra:agent>
+                </vra:agentSet>
+                <vra:measurementsSet>
+                    <vra:display>512 x 512 pixels resolution, 140 kb file size</vra:display>
+                    <vra:measurements type="fileSize">140 kb</vra:measurements>
+                    <vra:measurements type="resolution">512 x 512 pixels</vra:measurements>
+                </vra:measurementsSet>
+                <vra:relationSet>
+                    <vra:relation type="image of">collection ID# 111</vra:relation>
+                </vra:relationSet>
+                <vra:rightsSet>
+                    <vra:rights type="copyrighted" source="http://www.wikia.com/Terms_of_use">
+                        <vra:rightsHolder href="http://www.wikia.com/Terms_of_use">The Official Witcher Wikia</vra:rightsHolder>
+                    </vra:rights>
+                </vra:rightsSet>
+                <vra:sourceSet>
+                    <vra:display href="http://witcher.wikia.com/wiki/Witcher_medallion">The Official Witcher Wikia entry for "Witcher Medallion"</vra:display>
+                    <vra:source href="http://witcher.wikia.com/wiki/Witcher_medallion">
+                        <vra:name>The Official Witcher Wikia entry for "Witcher medallion"</vra:name>
+                    </vra:source>
+                </vra:sourceSet>
+                <vra:techniqueSet>
+                    <vra:technique vocab="AAT" refid="300237903">digital imaging</vra:technique>
+                </vra:techniqueSet>
+                <vra:worktypeSet>
+                    <vra:worktype vocab="AAT" refid="300237903">digital image</vra:worktype>
+                </vra:worktypeSet>
+            </vra:image>
+        </ww:vraSection>
+    </ww:realWorld>
+</ww:World_of_Witcher>
