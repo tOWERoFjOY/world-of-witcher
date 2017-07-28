@@ -4,6 +4,7 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xmlns:dc="http://purl.org/dc/elements/1.1/"
 xmlns:dcterms="http://purl.org/dc/terms/">
+
 <dc:title>Bruxa</dc:title>
 <dc:title>Bruxae</dc:title>
 <dc:creator>CD Projekt Red</dc:creator>
@@ -17,12 +18,12 @@ xmlns:dcterms="http://purl.org/dc/terms/">
 <dc:subject xsi:type="dcterms:LCSH">Paranormal Fiction</dc:subject>
 <dc:description>Fortunately for us all, bruxae are rare creatures. Most live far from population centers, for they care greatly for their own safety and make their lairs in places 
                     where they cannot be taken by surprise. Those who decide to live near men avoid crowds and emerge from their shelters only at night. When they do, one could almost 
-                    mistake them for delayed travelers hurrying towards their night’s lodging, yet subtle details give them away: their close ties to birds, their piercing voices and 
+                    mistake them for delayed travelers hurrying towards their nightâ€™s lodging, yet subtle details give them away: their close ties to birds, their piercing voices and 
                     the breathtaking speed of their movements. Bruxae are far swifter and stronger than men, but their greatest asset is their ability to turn invisible.
                     Bruxae dart about with uncanny speed, and with their power of invisibility they can easily confuse opponents and attack unexpectedly or from behind. 
-                    Thus when fighting these vampires the Moon Dust bomb is a great aid – while it cannot eliminate the vampire’s invisibility altogether, it can make it easier to track 
+                    Thus when fighting these vampires the Moon Dust bomb is a great aid â€“ while it cannot eliminate the vampireâ€™s invisibility altogether, it can make it easier to track 
                     its motions. A generous smearing of vampire oil is also effective.
-                    Bruxae use their sharp claws to attack and can easily break through an opponent’s guard by buffeting him with a hail of blows from all directions. They will try to
+                    Bruxae use their sharp claws to attack and can easily break through an opponentâ€™s guard by buffeting him with a hail of blows from all directions. They will try to
                     bite their prey and drink its blood once it is weakened, so every witcher who expects to encounter such a monster should swallow a Black Blood potion beforehand. 
                     Bruxae are also known for their sonic attacks, which knock down and stun their prey.</dc:description>
 <dc:publisher>CD Projekt Red</dc:publisher>
