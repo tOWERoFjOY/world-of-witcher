@@ -69,7 +69,10 @@
                         coin, or ruttish wives, the medallion can also behave abnormally."</vra:description>
                 </vra:descriptionSet>
                 <vra:locationSet>
-                    <vra:display>Kaer Morhen, Kaedwen, Northern Realms</vra:display>
+                    <vra:display>Geralt carries it on his person at all times</vra:display>
+                    <vra:location source="http://witcher.wikia.com/wiki/Geralt_of_Rivia" type="owner">
+                        <vra:name type="personal">Gerald of Rivia</vra:name>
+                    </vra:location>
                     <vra:location type="other">
                         <vra:name type="geographic" extent="region">Northern Realms</vra:name>
                         <vra:name type="geographic" extent="region">Kaedwen</vra:name>

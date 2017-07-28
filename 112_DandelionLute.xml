@@ -3,30 +3,38 @@
     xsi:schemaLocation="https://github.com/tOWERoFjOY/world-of-witcher https://raw.githubusercontent.com/tOWERoFjOY/world-of-witcher/master/WorldOfWitcher.xsd"
     xmlns:ww="https://github.com/tOWERoFjOY/world-of-witcher" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
     xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm">
-    <ww:Id>103</ww:Id>
+    <ww:Id>112</ww:Id>
     <ww:title>
-        <mods:title>Mastercrafted Griffin Chest Armor</mods:title>
+        <mods:title>Dendelion's Lute</mods:title>
     </ww:title>
     <ww:InUniverseOnly>true</ww:InUniverseOnly>
-    <ww:category>Gear</ww:category>
+    <ww:category>Collectibles</ww:category>
     
     <ww:inUniverse>
-        
         <ww:modsSection>
             <mods:mods>
                 <mods:name>
-                    <mods:namePart>Yoanna</mods:namePart>
+                    <mods:namePart type="given">Julian Alfred Pankratz</mods:namePart>
+                    <mods:namePart type="family">Viscount de Lettenhove</mods:namePart>
+                    <mods:namePart>Dandelion</mods:namePart>
                     <mods:role>
-                        <mods:roleTerm type="text">Master Armorer</mods:roleTerm>
+                        <mods:roleTerm type="text">bard</mods:roleTerm>
+                        <mods:roleTerm type="text">poet</mods:roleTerm>
+                        <mods:roleTerm type="text">minstrel</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:name>
+                    <mods:namePart>Toruviel aep Sihiel</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text">Commando</mods:roleTerm>
                     </mods:role>
                 </mods:name>
                 <mods:subject>
                     <mods:hierarchicalGeographic>
-                        <mods:country>Temeria</mods:country>
-                        <mods:province>Velen</mods:province>
-                        <mods:area>Crow's Perch</mods:area>
+                        <mods:region>Northern Realms</mods:region>
+                        <mods:country>Dol Blathanna</mods:country>
                     </mods:hierarchicalGeographic>
-                    <mods:temporal>1272</mods:temporal>
+                    <mods:occupation>bard</mods:occupation>
                 </mods:subject>
             </mods:mods>
         </ww:modsSection>
@@ -34,39 +42,39 @@
         <ww:vraSection>
             <vra:work>
                 <vra:agentSet>
-                    <vra:display href="http://witcher.wikia.com/wiki/Yoana">Yoanna of Crow's Perch</vra:display>
+                    <vra:display href="http://witcher.wikia.com/wiki/Toruviel">Toruviel aep Sihiel</vra:display>
                     <vra:agent>
-                        <vra:name>Yoanna</vra:name>
+                        <vra:name>Toruviel aep Sihiel</vra:name>
                         <vra:dates>
-                            <vra:latestDate>1272</vra:latestDate>
+                            <vra:latestDate>1230</vra:latestDate>
                         </vra:dates>
-                        <vra:culture>Skellige</vra:culture>
-                        <vra:role vocab="AAT" refid="300025327">Armorer</vra:role>
+                        <vra:culture>Elvish</vra:culture>
+                        <vra:culture>Scoia'tael</vra:culture>
+                        <vra:role>Original owner</vra:role>
                     </vra:agent>
                 </vra:agentSet>
                 <vra:culturalContextSet>
-                    <vra:culturalContext>Witcher</vra:culturalContext>
-                    <vra:culturalContext>School of the Griffin</vra:culturalContext>
+                    <vra:culturalContext>Elvish</vra:culturalContext>
+                    <vra:culturalContext>Scoia'tael</vra:culturalContext>
                 </vra:culturalContextSet>
                 <vra:dateSet>
-                    <vra:display>1272</vra:display>
-                    <vra:date type="creation">
-                        <vra:latestDate circa="true">1272</vra:latestDate>
+                    <vra:display>obtained ~1230</vra:display>
+                    <vra:date type="other">
+                        <vra:earliestDate circa="true">1230</vra:earliestDate>
                     </vra:date>
                 </vra:dateSet>
                 <vra:descriptionSet>
-                    <vra:display>Mastercrafted Griffin Chest Armor crafted by Yoana of Crow’s Perch using diagram retrieved 
-                        by Geralt of Rivia while questing in the Skellige Isles</vra:display>
-                    <vra:description source="http://witcher.wikia.com/wiki/Mastercrafted_Griffin_armor">Mastercrafted Griffin Chest Armor crafted by Yoana of Crow’s Perch using 
-                        diagram retrieved by Geralt of Rivia while questing in the Skellige Isles</vra:description>
+                    <vra:display>A magical lute crafted by the elves of Dol Blathanna, given to Dandelion as a gift by the elf Toruviel. Dandelion's encounter with 
+                        Toruviel was his first adventure with Geralt of Rivia, and the lute became his most prized possession.</vra:display>
+                    <vra:description source="http://witcher.wikia.com/wiki/Dandelion">A magical lute crafted by the elves of Dol Blathanna, given to Dandelion as a gift by the elf Toruviel. Dandelion's encounter with 
+                        Toruviel was his first adventure with Geralt of Rivia, and the lute became his most prized possession.s</vra:description>
                 </vra:descriptionSet>
                 <vra:materialSet>
-                    <vra:display>1 Superior Griffin armor, 2 Cured draconid leather, 3 Dimeritium plate, 1 Fifth essence, 1 Monster brain</vra:display>
-                    <vra:material>Superior Griffin armor</vra:material>
-                    <vra:material>Cured draconid leather</vra:material>
-                    <vra:material>Dimeritium plate</vra:material>
-                    <vra:material>Fifth essence</vra:material>
-                    <vra:material>Monster Brain</vra:material>
+                    <vra:display>wood, animal hair, gold, magic</vra:display>
+                    <vra:material>wood</vra:material>
+                    <vra:material>animal hair</vra:material>
+                    <vra:material>gold</vra:material>
+                    <vra:material>magic</vra:material>
                 </vra:materialSet> 
                 <vra:rightsSet>
                     <vra:display>Refer to terms of use outlined at http://www.wikia.com/Terms_of_use. Data/information on witcher universe is a copyrighted interpretation 
@@ -80,21 +88,21 @@
                     </vra:rights>
                 </vra:rightsSet>
                 <vra:sourceSet>
-                    <vra:display href="http://witcher.wikia.com/wiki/Mastercrafted_Griffin_armor">The Official Witcher Wikia entry for Mastercrafted Griffin armor</vra:display>
-                    <vra:source href="http://witcher.wikia.com/wiki/Mastercrafted_Griffin_armor">
-                        <vra:name>The Official Witcher Wikia entry for "Mastercrafted Griffin armor"</vra:name>
+                    <vra:display href="http://witcher.wikia.com/wiki/Dandelion">The Official Witcher Wikia entry for "Dandelion"</vra:display>
+                    <vra:source href="http://witcher.wikia.com/wiki/Dandelion">
+                        <vra:name>The Official Witcher Wikia entry for "Dandelion"</vra:name>
                     </vra:source>
                 </vra:sourceSet>
                 <vra:subjectSet>
-                    <vra:display>mythology; armor (protective wear)</vra:display>
+                    <vra:display>Elvish Lutherie</vra:display>
                     <vra:subject>
-                        <vra:term type="iconographicTopic" vocab="AAT" refid="300055985">mythology</vra:term>
-                        <vra:term type="descriptiveTopic" vocab="AAT" refid="300036745">armor (protective wear)</vra:term>
+                        <vra:term type="iconographicTopic" vocab="AAT" refid="300379786">lutherie</vra:term>
+                        <vra:term>Elvish Lutherie</vra:term>
                     </vra:subject>
                 </vra:subjectSet>
                 <vra:techniqueSet>
-                    <vra:display>Forge welding</vra:display>
-                    <vra:technique vocab="AAT" refid="300053962">Forge welding</vra:technique>
+                    <vra:display>lutherie</vra:display>
+                    <vra:technique vocab="AAT" refid="300379786">lutherie</vra:technique>
                 </vra:techniqueSet>
             </vra:work>
         </ww:vraSection>
@@ -104,21 +112,25 @@
         <ww:modsSection>
             <mods:mods>
                 <mods:name type="corporate">
-                   <mods:namePart>CD Projekt Red</mods:namePart>
-                   <mods:role>
-                       <mods:roleTerm>Creator</mods:roleTerm>
-                   </mods:role>
+                    <mods:namePart>CD Projekt Red</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm>Creator</mods:roleTerm>
+                    </mods:role>
                 </mods:name>
-                <mods:abstract>
-                    Mastercrafted Griffin Chest Armor crafted by Yoana of Crow’s Perch using diagram retrieved 
-                    by Geralt of Rivia while questing in the Skellige Isles. 
-                </mods:abstract>
+                <mods:name type="personal" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2013101040">
+                    <mods:namePart>Sapkowski, Andrzej</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text">Novel author</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:abstract>A magical lute crafted by the elves of Dol Blathanna, given to Dandelion as a gift by the elf Toruviel. Dandelion's encounter with 
+                    Toruviel was his first adventure with Geralt of Rivia, and the lute became his most prized possession.</mods:abstract>
                 <mods:originInfo>
                     <mods:dateIssued>2105-05-19</mods:dateIssued>
                 </mods:originInfo>
                 <mods:recordInfo>
                     <mods:recordContentSource>Record info was manually transformed into MODS based on digital born objects at the Official Witcher Wikia</mods:recordContentSource>
-                    <mods:recordContentSource>http://witcher.wikia.com/wiki/Mastercrafted_Griffin_armor</mods:recordContentSource>
+                    <mods:recordContentSource>http://witcher.wikia.com/wiki/Dandelion's_Lute</mods:recordContentSource>
                 </mods:recordInfo>
                 <mods:accessCondition type="use and reproduction" xmlns:xlink="http://www.w3.org/1999/xlink" 
                     xlink:href="http://rightsstatements.org/vocab/InC/1.0/">This Item is protected by copyright and/or related rights. 
@@ -129,20 +141,14 @@
         </ww:modsSection>
         
         <ww:dcSection>
-            <dc:type xsi:type="dcterms:DCMIType">InteractiveResource</dc:type>
             <dc:subject xsi:type="dcterms:LCSH">Fantasy</dc:subject>
             <dc:subject xsi:type="dcterms:LCSH">Video Games</dc:subject>
             <dc:subject xsi:type="dcterms:LCSH">Role Playing</dc:subject>
             <dc:subject xsi:type="dcterms:LCSH">Mythology</dc:subject>
             <dc:subject xsi:type="dcterms:LCSH">Mythology, Slavic</dc:subject>
             <dc:subject xsi:type="dcterms:LCSH">Magic</dc:subject>
-            <dc:subject xsi:type="dcterms:LCSH">Armor</dc:subject>
-            <dc:subject xsi:type="dcterms:LCSH">Armor, Medieval</dc:subject>
-            <dc:subject xsi:type="dcterms:LCSH">Armor in literature</dc:subject>
-            <dc:subject xsi:type="dcterms:LCSH">Armor in art</dc:subject>
-            <dc:subject xsi:type="dcterms:LCSH">Armor in motion pictures</dc:subject>
-            <dcterms:isPartOf>Witcher 3: The Wild Hunt</dcterms:isPartOf>
-            <dcterms:isReferencedBy>Topographic Map of Ard Skellig</dcterms:isReferencedBy>
+            <dcterms:isPartOf>The Witcher</dcterms:isPartOf>
+            <dcterms:isPartOf>The Last Wish</dcterms:isPartOf>
         </ww:dcSection>
         
         <ww:vraSection>
@@ -162,7 +168,7 @@
                         <vra:role>publisher</vra:role>
                     </vra:agent>
                     <vra:agent>
-                        <vra:name type="other" href="http://www.gosunoob.com/witcher-3/mastercrafted-griffin-gear/">gosnoob.com</vra:name>
+                        <vra:name type="other" href="http://witcher.wikia.com/wiki/Witcher_Wiki">The Official Witcher Wiki</vra:name>
                         <vra:role>image owner</vra:role>
                     </vra:agent>
                     <vra:agent>
@@ -172,24 +178,22 @@
                     </vra:agent>
                 </vra:agentSet>
                 <vra:measurementsSet>
-                    <vra:display>981 x 535 pixels resolution, 283 kb file size</vra:display>
-                    <vra:measurements type="fileSize">283 kb</vra:measurements>
-                    <vra:measurements type="resolution">981 x 535 pixels</vra:measurements>
+                    <vra:display>245 x 479 pixels resolution, 2.04 mb file size</vra:display>
+                    <vra:measurements type="fileSize">2.04 mb</vra:measurements>
+                    <vra:measurements type="resolution">245 x 479 pixels</vra:measurements>
                 </vra:measurementsSet>
                 <vra:relationSet>
-                    <vra:relation type="imageOf">Collection ID# 103</vra:relation>
+                    <vra:relation type="image of">collection ID# 112</vra:relation>
                 </vra:relationSet>
                 <vra:rightsSet>
-                    <vra:display>Image is copyrighted product of CD Projekt RED</vra:display>
-                    <vra:rights type="copyrighted" href="http://rightsstatements.org/vocab/InC/1.0/">
-                        <vra:rightsHolder>CD Projekt RED</vra:rightsHolder>
+                    <vra:rights type="copyrighted" source="http://www.wikia.com/Terms_of_use">
+                        <vra:rightsHolder href="http://www.wikia.com/Terms_of_use">The Official Witcher Wikia</vra:rightsHolder>
                     </vra:rights>
                 </vra:rightsSet>
                 <vra:sourceSet>
-                    <vra:display href="http://www.gosunoob.com/witcher-3/mastercrafted-griffin-gear/">Image collected from entry for Mastercrafted Griffin
-                        Gear from gosunoob.com</vra:display>
-                    <vra:source href="http://www.gosunoob.com/witcher-3/mastercrafted-griffin-gear/">
-                        <vra:name>gosunoob.com page for Mastercrafted Griffin Gear</vra:name>
+                    <vra:display href="http://witcher.wikia.com/wiki/Dandelion">The Official Witcher Wikia entry for "Dandelion"</vra:display>
+                    <vra:source href="http://witcher.wikia.com/wiki/Dandelion">
+                        <vra:name>The Official Witcher Wikia entry for "Dandelion"</vra:name>
                     </vra:source>
                 </vra:sourceSet>
                 <vra:techniqueSet>
