@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>Bruxa</dc:title>
+<dc:creator>CD Projekt Red</dc:creator>
+<dc:subject xsi:type="dcterms:LCSH">Fantasy</dc:subject>
+<dc:subject xsi:type="dcterms:LCSH">Video Games</dc:subject>
+<dc:subject xsi:type="dcterms:LCSH">Role Playing</dc:subject>
+<dc:subject xsi:type="dcterms:LCSH">Monsters in mass media</dc:subject>
+<dc:description>A Bruxa, a name derived from Portuguese folklore, is a type of female vampire Geralt encounters throughout the Witcher game universe. </dc:description>
+<dc:publisher>CD Projekt Red</dc:publisher>
+<dc:publisher>Warner Bros. Interactive Entertainment</dc:publisher>
+<dc:publisher>Bandai Namco Entertainment</dc:publisher>
+<dc:contributor>Sapkowski, Andrzej</dc:contributor>
+<dc:date xsi:type="dcterms:W3CDTF">2015</dc:date>
+<dc:type xsi:type="dcterms:DCMIType">Interactive Resource</dc:type>
+<dc:type xsi:type="dcterms:DCMIType">StillImage</dc:type>
+<dc:format>Digital object</dc:format>
+<dc:format xsi:type="dcterms:IMT">png</dc:format>
+<dc:source>http://witcher.wikia.com/wiki/Bruxa</dc:source>
+<dc:language xsi:type="dcterms:ISO639-2">eng</dc:language>
+<dcterms:isReferencedBy>"The Last Wish"</dcterms:isReferencedBy>
+<dcterms:isReferencedBy>"A Night to Remember"</dcterms:isReferencedBy>
+<dcterms:isReferencedBy xsi:type="dcterms:URI">https://www.youtube.com/watch?v=ehjJ614QfeM</dcterms:isReferencedBy>
+<dcterms:isPartOf>The Witcher 3: The Wild Hunt</dcterms:isPartOf>
+<dcterms:isPartOf>The Witcher 2: Assassins of Kings</dcterms:isPartOf>
+<dcterms:isPartOf>The Witcher </dcterms:isPartOf>
+<dc:rights>http://www.wikia.com/Terms_of_use</dc:rights>
+
+</metadata>

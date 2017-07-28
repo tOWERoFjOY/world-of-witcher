@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>Starry Night Over the Pontar</dc:title>
+<dc:creator>Von Everec, Iris</dc:creator>
+<dc:creator>Van Rogh</dc:creator>
+<dc:subject>Witcher 3 Hearts of Stone Expansion</dc:subject>
+<dc:subject xsi:type="dcterms:AAT">European</dc:subject>
+<dc:subject xsi:type="dcterms:AAT">Impressionist</dc:subject>
+<dc:subject xsi:type="dcterms:AAT">landscapes</dc:subject>
+<dc:description>Starry Night Over the Pontar is a painting by van Rogh, and an item in the Hearts of Stone expansion for The Witcher 3: Wild Hunt. It may be acquired at the auction during the quest Open Sesame!, either for 20 or 60 crowns. This painting is a reference to Vincent van Gogh's painting "Starry Night Over the Rhône."</dc:description>
+<dc:publisher>CD Projekt Red</dc:publisher>
+<dc:date xsi:type="dcterms:W3CDTF">2017-07-25</dc:date>
+<dcterms:medium>impasto</dcterms:medium>
+<dc:format>oil paint</dc:format>
+<dc:format>canvas</dc:format>
+<dc:source>The Official Witcher Wikia entry for "Starry Night Over the Pontar"</dc:source>
+<dc:source>http://witcher.wikia.com/wiki/%22Starry_Night_Over_the_Pontar%22</dc:source>
+<dcterms:temporal>1272</dcterms:temporal>
+<dcterms:audience>The Official Witcher Wikia</dcterms:audience>
+<dcterms:rightsholder>The Official Witcher Wikia</dcterms:rightsholder>
+
+</metadata>
