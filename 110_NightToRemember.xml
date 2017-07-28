@@ -3,10 +3,10 @@
     xsi:schemaLocation="https://github.com/tOWERoFjOY/world-of-witcher https://raw.githubusercontent.com/tOWERoFjOY/world-of-witcher/master/WorldOfWitcher.xsd"
     xmlns:ww="https://github.com/tOWERoFjOY/world-of-witcher" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
     xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm">
-    <ww:Id>106</ww:Id>
+    <ww:Id>110</ww:Id>
     <ww:title>
-        <mods:nonSort>The</mods:nonSort>
-        <mods:partName>Wolven Storm</mods:partName>
+        <mods:nonSort>A</mods:nonSort>
+        <mods:title>Night to Remember</mods:title>
     </ww:title>
     <ww:InUniverseOnly>true</ww:InUniverseOnly>
     <ww:category>Media</ww:category>
@@ -14,33 +14,26 @@
     <ww:inUniverse>
         <ww:modsSection>
             <mods:mods>
-                <mods:name>
+                <mods:name type="personal">
                     <mods:namePart>Geralt of Rivia</mods:namePart>
                     <mods:role>
-                        <mods:roleTerm type="text">Witcher</mods:roleTerm>
+                        <mods:roleTerm type="text">witcher</mods:roleTerm>
                     </mods:role>
                 </mods:name>
-                <mods:name>
-                    <mods:namePart>Zoltan</mods:namePart>
+                <mods:name type="personal">
+                    <mods:namePart>Orianna</mods:namePart>
                     <mods:role>
-                        <mods:roleTerm type="text">Swordsman</mods:roleTerm>
-                    </mods:role>
-                </mods:name>
-                <mods:name>
-                    <mods:namePart>Priscilla</mods:namePart>
-                    <mods:namePart>Callonetta</mods:namePart>
-                    <mods:role>
-                        <mods:roleTerm type="text">Trobairitz</mods:roleTerm>
+                        <mods:roleTerm type="text">Bruxa</mods:roleTerm>
                     </mods:role>
                 </mods:name>
                 <mods:subject>
-                    <mods:geographic>Kingfisher Inn</mods:geographic>
                     <mods:hierarchicalGeographic>
-                        <mods:country>Redania</mods:country>
-                        <mods:city>Novigrad</mods:city>
+                        <mods:country> Nilfgard</mods:country>
+                        <mods:province>Touissant</mods:province>
+                        <mods:city>Beauclair</mods:city>
                     </mods:hierarchicalGeographic>
-                    <mods:temporal>1272</mods:temporal>
-                    <mods:occupation>Trobairitz</mods:occupation>
+                    <mods:temporal>1276</mods:temporal>
+                    <mods:occupation>Witcher</mods:occupation>
                 </mods:subject>
             </mods:mods>
         </ww:modsSection>
@@ -57,18 +50,17 @@
                     </mods:role>
                 </mods:name>
                 <mods:name>
-                    <mods:namePart>Morton, Alexander</mods:namePart>
-                    <mods:role>
-                        <mods:roleTerm type="text">voice actor</mods:roleTerm>
-                        <mods:roleTerm type="text">Zoltan</mods:roleTerm>
-                    </mods:role>
-                </mods:name>
-                <mods:name>
-                    <mods:namePart>Hiddleston, Emma</mods:namePart>
+                    <mods:namePart>Kaluzna, Barbara</mods:namePart>
                     <mods:role>
                         <mods:roleTerm type="text">voice actor</mods:roleTerm>
                         <mods:roleTerm type="text">performer</mods:roleTerm>
-                        <mods:roleTerm type="text">Priscilla</mods:roleTerm>
+                        <mods:roleTerm type="text">Orianna</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:name type="corporate">
+                    <mods:namePart>CD Projekt Red</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm>creator</mods:roleTerm>
                     </mods:role>
                 </mods:name>
                 <mods:name type="personal" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2013101040">
@@ -77,35 +69,32 @@
                         <mods:roleTerm type="text">Novel author</mods:roleTerm>
                     </mods:role>
                 </mods:name>
-                <mods:name>
-                    <mods:namePart>Shirrako</mods:namePart>
+                <mods:name type="corporate">
+                    <mods:namePart>Gamespot</mods:namePart>
                     <mods:description>Youtube profile that uploaded video capture of scene from Witcher 3</mods:description>
-                </mods:name>
-                <mods:name>
-                    <mods:namePart>Marcin Przybyłowicz</mods:namePart>
                     <mods:role>
-                        <mods:roleTerm type="text">composer</mods:roleTerm>
+                        <mods:roleTerm>video owner</mods:roleTerm>
                     </mods:role>
                 </mods:name>
-                <mods:abstract>This song serves as an introduction to the character of Priscilla, a troubadour Geralt
-                    encounters in Witcher 3. The song is actually a retelling of the complicated relationship between 
-                    the witcher, Geralt of Rivia, and the sorceress Yennefer of Vengeburg.</mods:abstract>
+                <mods:abstract>This launch cinematic trailer for the Witcher 3 depicts Geralt’s encounter with a bruxa. Geralt actually meets the creature, identified as a vampire named Orianna, during the DLC 
+                    expansion “Blood and Wine” but does not fight her until after the timeline depicted within the Witcher 3.
+                </mods:abstract>
                 <mods:typeOfResource>moving image</mods:typeOfResource>
                 <mods:physicalDescription>
                     <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
                     <mods:form type="Technique">screen recording</mods:form>
                 </mods:physicalDescription>
                 <mods:location>
-                    <mods:url>www.youtube.com/watch?v=2bSk-8C76dc</mods:url>
+                    <mods:url>https://www.youtube.com/watch?v=ehjJ614QfeM</mods:url>
                 </mods:location>
                 <mods:originInfo>
                     <mods:dateValid>2017-07-26</mods:dateValid>
                     <mods:place>
-                        <mods:placeTerm valueURI="www.youtube.com/watch?v=2bSk-8C76dc">The Witcher 3 Soundtrack OST - Priscilla's Song</mods:placeTerm>
-                        <mods:placeTerm>https://www.youtube.com/watch?v=2bSk-8C76dc</mods:placeTerm>
+                        <mods:placeTerm valueURI="https://www.youtube.com/watch?v=ehjJ614QfeM">"A NIght to Remember" Launch Cinematic - The Witcher III: Wild Hunt</mods:placeTerm>
+                        <mods:placeTerm>https://www.youtube.com/watch?v=jls8boIDo5I</mods:placeTerm>
                     </mods:place>
                     <mods:dateCaptured>2017-07-26</mods:dateCaptured>
-                    <mods:dateIssued>2015-05-21</mods:dateIssued>
+                    <mods:dateIssued>2015-05-14</mods:dateIssued>
                 </mods:originInfo>
                 <mods:recordInfo>
                     <mods:recordOrigin>Record info was manually transformed into MODS based on digital born object</mods:recordOrigin>
@@ -123,16 +112,19 @@
             <dc:subject xsi:type="dcterms:LCSH">Fantasy</dc:subject>
             <dc:subject xsi:type="dcterms:LCSH">Video Games</dc:subject>
             <dc:subject xsi:type="dcterms:LCSH">Role Playing</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Magic</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Monsters</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Monsters and myths</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Monsters in mass media</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Paranormal Fiction</dc:subject>
+            <dcterms:isReferencedBy>Bruxa</dcterms:isReferencedBy>
+            <dcterms:isPartOf>The Witcher 3: The Wild Hunt</dcterms:isPartOf>
+            <dcterms:isPartOf>The Witcher 3: Blood and Wine</dcterms:isPartOf>
         </ww:dcSection>
         
         <ww:vraSection>
             <vra:image>
                 <vra:agentSet>
-                    <vra:agent>
-                        <vra:name type="personal">Sapkowski, Andrzej</vra:name>
-                        <vra:role>Novel writer</vra:role>
-                        <vra:attribution></vra:attribution>
-                    </vra:agent>
                     <vra:agent>
                         <vra:name type="corporate">CD Projekt Red</vra:name>
                         <vra:role>creator</vra:role>
@@ -147,40 +139,49 @@
                         <vra:role>publisher</vra:role>
                     </vra:agent>
                     <vra:agent>
-                        <vra:name type="other" href="https://www.youtube.com/channel/UC7eAfUjR9gdIjoaoQaS0W-A">Shirrako</vra:name>
+                        <vra:name type="corporate" href="https://www.youtube.com/user/gamespot/about">Gamespot</vra:name>
                         <vra:role>image owner</vra:role>
                     </vra:agent>
+                    <vra:agent>
+                        <vra:name type="personal">Sapkowski, Andrzej</vra:name>
+                        <vra:role>Novel writer</vra:role>
+                        <vra:attribution></vra:attribution>
+                    </vra:agent>
                 </vra:agentSet>
+                <vra:dateSet>
+                    <vra:date type="creation">
+                        <vra:earliestDate>2016-05-14</vra:earliestDate>
+                    </vra:date>
+                </vra:dateSet>
                 <vra:measurementsSet>
-                    <vra:display>250 mb file size, 640 x 360 pixel resolution</vra:display>
-                    <vra:measurements type="fileSize">250 mb</vra:measurements>
-                    <vra:measurements type="resolution">640 x 360 pixel resolution</vra:measurements>
+                    <vra:display>640 x 360 pixels resolution, 238 kb file size</vra:display>
+                    <vra:measurements type="fileSize">238 kb</vra:measurements>
+                    <vra:measurements type="resolution">640 x 360 pixels</vra:measurements>
                 </vra:measurementsSet>
                 <vra:relationSet>
-                    <vra:relation type="imageOf">Collection ID# 106</vra:relation>
+                    <vra:relation type="image of">collection ID# 110</vra:relation>
                 </vra:relationSet>
                 <vra:rightsSet>
-                    <vra:display>Image is copyrighted product of CD Projekt RED</vra:display>
                     <vra:rights type="copyrighted" href="http://rightsstatements.org/vocab/InC/1.0/">
                         <vra:rightsHolder>CD Projekt RED</vra:rightsHolder>
                     </vra:rights>
-                    <vra:rights type="terms of use" href="https://www.youtube.com/static?template=terms">
+                    <vra:rights type="other" source="https://www.youtube.com/static?template=terms">
                         <vra:text>Standard youtube license</vra:text>
-                        <vra:rightsHolder>Shirrako [YouTube Account]</vra:rightsHolder>
-                        <vra:rightsHolder>https://www.youtube.com/user/Shirrako/about</vra:rightsHolder>
+                        <vra:rightsHolder href="https://www.youtube.com/user/gamespot/about">Gamespot [YouTube Account]</vra:rightsHolder>
+                        <vra:rightsHolder>https://www.youtube.com/user/gamespot/about</vra:rightsHolder>
                     </vra:rights>
                 </vra:rightsSet>
                 <vra:sourceSet>
-                    <vra:display href="https://www.youtube.com/watch?v=jls8boIDo5I">Youtube video entitled "The Witcher 3 Soundtrack OST - Priscilla's Song"</vra:display>
-                    <vra:source href="https://www.youtube.com/watch?v=jls8boIDo5I">
-                        <vra:name>The Witcher 3 Soundtrack OST - Priscilla's Song</vra:name>
+                    <vra:display href="https://www.youtube.com/watch?v=ehjJ614QfeM">"A Night to Remember" Launch Cinematic - The Witcher III: Wild Hunt</vra:display>
+                    <vra:source href="https://www.youtube.com/watch?v=ehjJ614QfeM">
+                        <vra:name>"A Night to Remember" Launch Cinematic - The Witcher III: Wild Hunt</vra:name>
                     </vra:source>
                 </vra:sourceSet>
                 <vra:techniqueSet>
-                    <vra:technique vocab="AAT" refid="300053161">computer animation</vra:technique>
+                    <vra:technique vocab="AAT" refid="300237903">digital imaging</vra:technique>
                 </vra:techniqueSet>
                 <vra:worktypeSet>
-                    <vra:worktype vocab="AAT" refid="300028682">video recordings</vra:worktype>
+                    <vra:worktype vocab="AAT" refid="300237903">digital image</vra:worktype>
                 </vra:worktypeSet>
             </vra:image>
         </ww:vraSection>

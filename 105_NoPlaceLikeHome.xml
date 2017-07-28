@@ -171,15 +171,16 @@
                     <vra:rights type="copyrighted" href="http://rightsstatements.org/vocab/InC/1.0/">
                         <vra:rightsHolder>CD Projekt RED</vra:rightsHolder>
                     </vra:rights>
-                    <vra:rights type="terms of use" href="https://www.youtube.com/static?template=terms">
-                        <vra:rightsHolder>PhatSteve7 [YouTube Account]</vra:rightsHolder>
-                        <vra:text>YouTube terms of Service, https://www.youtube.com/static?template=terms </vra:text>
+                    <vra:rights type="other" source="https://www.youtube.com/static?template=terms">
+                        <vra:text>Standard youtube license</vra:text>
+                        <vra:rightsHolder href="https://www.youtube.com/user/PhatSteve7/about">PhatSteve7 [YouTube Account]</vra:rightsHolder>
+                        <vra:rightsHolder>https://www.youtube.com/user/PhatSteve7/about</vra:rightsHolder>
                     </vra:rights>
                 </vra:rightsSet>
                 <vra:sourceSet>
                     <vra:display href="https://www.youtube.com/watch?v=jls8boIDo5I">Youtube video entitled "The Witcher 3 Drinking Games iwht Witchers (Funny Scene)"</vra:display>
                     <vra:source href="https://www.youtube.com/watch?v=jls8boIDo5I">
-                        <vra:name>The Witcher 3 Drinking Games iwht Witchers (Funny Scene)</vra:name>
+                        <vra:name>The Witcher 3 Drinking Games with Witchers (Funny Scene)</vra:name>
                     </vra:source>
                 </vra:sourceSet>
                 <vra:techniqueSet>

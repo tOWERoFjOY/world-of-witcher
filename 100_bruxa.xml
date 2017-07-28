@@ -164,9 +164,6 @@
                 <vra:techniqueSet>
                     <vra:technique vocab="AAT" refid="300237903">digital imaging</vra:technique>
                 </vra:techniqueSet>
-                <vra:titleSet>
-                    <vra:title>Bruxa image from Witcher 3 Bestiary/Journal</vra:title>
-                </vra:titleSet>
                 <vra:worktypeSet>
                     <vra:worktype vocab="AAT" refid="300237903">digital image</vra:worktype>
                 </vra:worktypeSet>
