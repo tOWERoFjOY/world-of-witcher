@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ww:World_of_Witcher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/tOWERoFjOY/world-of-witcher https://raw.githubusercontent.com/tOWERoFjOY/world-of-witcher/master/WorldOfWitcher.xsd"
+    xmlns:ww="https://github.com/tOWERoFjOY/world-of-witcher" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm">
+    <ww:Id>113</ww:Id>
+    <ww:title>
+        <mods:title lang="Elder speech">Zirael</mods:title>
+    </ww:title>
+    <ww:title type="translated">
+        <mods:title>Swallow</mods:title>
+    </ww:title>
+    <ww:title type="alternative" lang="Elder speech">
+        <mods:title>Dubhenn haern am gladeal, morc'h am fhean aiesin</mods:title>
+    </ww:title>
+    <ww:title type="translated">
+        <mods:title>The flash that cuts through darkness, the light that breaks the night</mods:title>
+    </ww:title>
+    <ww:InUniverseOnly>true</ww:InUniverseOnly>
+    <ww:category>Gear</ww:category>
+    
+    <ww:inUniverse>
+        <ww:modsSection>
+            <mods:mods>
+                <mods:name>
+                    <mods:namePart>Ciri</mods:namePart>
+                    <mods:namePart>Cirilla Fiona elen Riannon</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text">Witcher</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:name>
+                    <mods:namePart>Geralt of Rivia</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text">Witcher</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:name>
+                    <mods:namePart>Master Ort</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text">Swordsmith</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:subject>
+                    <mods:geographic>Nilfgaardian Garrison</mods:geographic>
+                    <mods:geographic>White Orchard Inn</mods:geographic>
+                    <mods:hierarchicalGeographic>
+                        <mods:country>Temeria</mods:country>
+                        <mods:county>White Orchard</mods:county>
+                    </mods:hierarchicalGeographic>
+                    <mods:temporal>1275</mods:temporal>
+                    <mods:occupation>Witcher</mods:occupation>
+                </mods:subject>
+            </mods:mods>
+        </ww:modsSection>
+        
+        <ww:vraSection>
+            <vra:work>
+                <vra:agentSet>
+                    <vra:display>Master Ort smithed the sword, Geralt served as the bankroller/patron</vra:display>
+                    <vra:agent>
+                        <vra:name>Master Ort</vra:name>
+                        <vra:dates>
+                            <vra:latestDate>1275</vra:latestDate>
+                        </vra:dates>
+                        <vra:culture>Temerian</vra:culture>
+                        <vra:role vocab="AAT" refid="300025342">Swordsmith</vra:role>
+                    </vra:agent>
+                    <vra:agent>
+                        <vra:name href="http://witcher.wikia.com/wiki/Geralt">Geralt of Rivia</vra:name>
+                        <vra:dates>
+                            <vra:latestDate>1275</vra:latestDate>
+                        </vra:dates>
+                        <vra:culture>Witcher</vra:culture>
+                        <vra:role vocab="AAT" refid="300115251">patron</vra:role>
+                    </vra:agent>
+                </vra:agentSet>
+                <vra:culturalContextSet>
+                    <vra:culturalContext>Temerian</vra:culturalContext>
+                    <vra:culturalContext>Witcher</vra:culturalContext>
+                </vra:culturalContextSet>
+                <vra:dateSet>
+                    <vra:display>Forged 1275</vra:display>
+                    <vra:date type="creation">
+                        <vra:latestDate circa="true">1275</vra:latestDate>
+                    </vra:date>
+                </vra:dateSet>
+                <vra:descriptionSet>
+                    <vra:display>The sword is given to Geralt by Master Ort at the now-abandoned Nilfgaardian Garrison at White Orchard. It can only be obtained if the 
+                        so-called "good" ending of the game is achieved. The sword does no damage in combat as it is intended to be given to Ciri, as a fitting way to 
+                        start her witcher career. The weapon's craftsman, Master Ort, remarks that "no witcher has, or ever had, a better weapon", when he presents it 
+                        to Geralt. Zireael has a 38½ inch blade, a silver-plated siderite steel core, and glyphs and runes throughout the length of the blade, and on 
+                        the hilt.The sword may have one of two possible inscriptions in Elder Runes, depending on the dialogue option that is chosen. "Zireael", meaning
+                        "Swallow" in Common Speech, is one possibility. The other is "Dubhenn haern am glâdeal, morc'h am fhean aiesin" which translates to "the flash 
+                        that cuts through darkness, the light that breaks the night".
+                    </vra:display>
+                    <vra:description source="http://witcher.wikia.com/wiki/Zireael_(sword)">The sword is given to Geralt by Master Ort at the now-abandoned Nilfgaardian Garrison at White Orchard. It can only be obtained if the 
+                        so-called "good" ending of the game is achieved. The sword does no damage in combat as it is intended to be given to Ciri, as a fitting way to 
+                        start her witcher career. The weapon's craftsman, Master Ort, remarks that "no witcher has, or ever had, a better weapon", when he presents it 
+                        to Geralt. Zireael has a 38½ inch blade, a silver-plated siderite steel core, and glyphs and runes throughout the length of the blade, and on 
+                        the hilt.The sword may have one of two possible inscriptions in Elder Runes, depending on the dialogue option that is chosen. "Zireael", meaning
+                        "Swallow" in Common Speech, is one possibility. The other is "Dubhenn haern am glâdeal, morc'h am fhean aiesin" which translates to "the flash 
+                        that cuts through darkness, the light that breaks the night".</vra:description>
+                </vra:descriptionSet>
+                <vra:locationSet>
+                    <vra:display>White Orchard, Temeria, Northern Realms</vra:display>
+                    <vra:location type="other">
+                        <vra:name type="region">Northern Realms</vra:name>
+                        <vra:name type="country">Temeria</vra:name>
+                        <vra:name type="town">White Orchard</vra:name>
+                    </vra:location>
+                    <vra:location type="owner">
+                        <vra:name type="personal">Ciri</vra:name>
+                        <vra:name type="personal">Cirilla Fiona elen Riannon</vra:name>
+                    </vra:location>
+                </vra:locationSet>
+                <vra:materialSet>
+                    <vra:display>steel, silver, wood, and glyphs</vra:display>
+                    <vra:material>steel</vra:material>
+                    <vra:material>silver</vra:material>
+                    <vra:material>wood</vra:material>
+                    <vra:material>glyphs</vra:material>
+                </vra:materialSet> 
+                <vra:rightsSet>
+                    <vra:display>Refer to terms of use outlined at http://www.wikia.com/Terms_of_use. Data/information on witcher universe is a copyrighted interpretation 
+                        of the Witcher Series universe. Image is copyrighted product of CD Projekt RED</vra:display>
+                    <vra:rights type="copyrighted" href="http://rightsstatements.org/vocab/InC/1.0/">
+                        <vra:rightsHolder>CD Projekt RED</vra:rightsHolder>
+                    </vra:rights><vra:rights type="copyrighted" href="http://www.wikia.com/Terms_of_use">
+                        <vra:rightsHolder>The Official Witcher Wikia</vra:rightsHolder>
+                        <vra:text>Refer to terms of use outlined at http://www.wikia.com/Terms_of_use. Data/information on witcher universe is a copyrighted interpretation 
+                            of the Witcher Series universe</vra:text>
+                    </vra:rights>
+                </vra:rightsSet>
+                <vra:sourceSet>
+                    <vra:display href="http://witcher.wikia.com/wiki/Zireael_(sword)">The Official Witcher Wikia entry for "Zirael (sword)"</vra:display>
+                    <vra:source href="http://witcher.wikia.com/wiki/Zireael_(sword)">
+                        <vra:name>The Official Witcher Wikia entry for "Zirael (sword)"</vra:name>
+                    </vra:source>
+                </vra:sourceSet>
+                <vra:subjectSet>
+                    <vra:display>mythology; armor (protective wear)</vra:display>
+                    <vra:subject>
+                        <vra:term type="iconographicTopic" vocab="AAT" refid="300055985">mythology</vra:term>
+                        <vra:term type="descriptiveTopic" vocab="AAT" refid="300037048">swords</vra:term>
+                        <vra:term type="descriptiveTopic" vocab="AAT" refid="300204572">cutting swords</vra:term>
+                    </vra:subject>
+                </vra:subjectSet>
+                <vra:techniqueSet>
+                    <vra:display>Forge welding</vra:display>
+                    <vra:technique vocab="AAT" refid="300053962">Forge welding</vra:technique>
+                </vra:techniqueSet>
+            </vra:work>
+        </ww:vraSection>
+    </ww:inUniverse>
+    
+    <ww:realWorld>
+        <ww:modsSection>
+            <mods:mods>
+                <mods:name type="corporate">
+                    <mods:namePart>CD Projekt Red</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm>Creator</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:abstract>
+                    The sword is given to Geralt by Master Ort at the now-abandoned Nilfgaardian Garrison at White Orchard. It can only be obtained if the so-called
+                    "good" ending of the game is achieved. The sword does no damage in combat as it is intended to be given to Ciri, as a fitting way to start her witcher career.
+                    The weapon's craftsman, Master Ort, remarks that "no witcher has, or ever had, a better weapon", when he presents it to Geralt. Zireael has a 38½ inch blade, 
+                    a silver-plated siderite steel core, and glyphs and runes throughout the length of the blade, and on the hilt. The sword may have one of two possible inscriptions 
+                    in Elder Runes, depending on the dialogue option that is chosen. "Zireael", meaning "Swallow" in Common Speech, is one possibility. The other is "Dubhenn haern 
+                    am glâdeal, morc'h am fhean aiesin" which translates to "the flash that cuts through darkness, the light that breaks the night".
+                </mods:abstract>
+                <mods:originInfo>
+                    <mods:dateIssued>2105-05-19</mods:dateIssued>
+                </mods:originInfo>
+                <mods:recordInfo>
+                    <mods:recordContentSource>Record info was manually transformed into MODS based on digital born objects at the Official Witcher Wikia</mods:recordContentSource>
+                    <mods:recordContentSource>http://witcher.wikia.com/wiki/Zireael_(sword)</mods:recordContentSource>
+                </mods:recordInfo>
+                <mods:accessCondition type="use and reproduction" xmlns:xlink="http://www.w3.org/1999/xlink" 
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">This Item is protected by copyright and/or related rights. 
+                    You are free to use this Item in any way that is permitted by the copyright and related rights legislation that 
+                    applies to your use. For other uses you need to obtain permission from the rights-holder(s).
+                </mods:accessCondition>
+            </mods:mods>
+        </ww:modsSection>
+        
+        <ww:dcSection>
+            <dc:type xsi:type="dcterms:DCMIType">InteractiveResource</dc:type>
+            <dc:subject xsi:type="dcterms:LCSH">Fantasy</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Video Games</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Role Playing</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Mythology</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Mythology, Slavic</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Magic</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Swords</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Swords in literature</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">Swords, Medieval</dc:subject>
+            <dcterms:isPartOf>Witcher 3: The Wild Hunt</dcterms:isPartOf>
+        </ww:dcSection>
+        
+        <ww:vraSection>
+            <vra:image>
+                <vra:agentSet>
+                    <vra:agent>
+                        <vra:name type="corporate">CD Projekt Red</vra:name>
+                        <vra:role>creator</vra:role>
+                        <vra:role>publisher</vra:role>
+                    </vra:agent>
+                    <vra:agent>
+                        <vra:name type="corporate">Warner Bros. Interactive Entertainment</vra:name>
+                        <vra:role>publisher</vra:role>
+                    </vra:agent>
+                    <vra:agent>
+                        <vra:name type="corporate">Bandai Namco Entertainment</vra:name>
+                        <vra:role>publisher</vra:role>
+                    </vra:agent>
+                    <vra:agent>
+                        <vra:name type="other" href="http://witcher.wikia.com/wiki/Witcher_Wiki">The Official Witcher Wiki</vra:name>
+                        <vra:role>image owner</vra:role>
+                    </vra:agent>
+                    <vra:agent>
+                        <vra:name type="personal">Sapkowski, Andrzej</vra:name>
+                        <vra:role>Novel writer</vra:role>
+                        <vra:attribution></vra:attribution>
+                    </vra:agent>
+                </vra:agentSet>
+                <vra:measurementsSet>
+                    <vra:display>64 x 128 pixels resolution, 7 kb file size</vra:display>
+                    <vra:measurements type="fileSize">7 kb</vra:measurements>
+                    <vra:measurements type="resolution">64 x 128 pixels</vra:measurements>
+                </vra:measurementsSet>
+                <vra:relationSet>
+                    <vra:relation type="image of">collection ID# 113</vra:relation>
+                </vra:relationSet>
+                <vra:rightsSet>
+                    <vra:rights type="copyrighted" source="http://www.wikia.com/Terms_of_use">
+                        <vra:rightsHolder href="http://www.wikia.com/Terms_of_use">The Official Witcher Wikia</vra:rightsHolder>
+                    </vra:rights>
+                </vra:rightsSet>
+                <vra:sourceSet>
+                    <vra:display href="http://witcher.wikia.com/wiki/Zireael_(sword)">The Official Witcher Wikia entry for "Zirael (Sword)"</vra:display>
+                    <vra:source href="http://witcher.wikia.com/wiki/Zireael_(sword)">
+                        <vra:name>The Official Witcher Wikia entry for "Zirael (Sword)"</vra:name>
+                    </vra:source>
+                </vra:sourceSet>
+                <vra:techniqueSet>
+                    <vra:technique vocab="AAT" refid="300237903">digital imaging</vra:technique>
+                </vra:techniqueSet>
+                <vra:worktypeSet>
+                    <vra:worktype vocab="AAT" refid="300237903">digital image</vra:worktype>
+                </vra:worktypeSet>
+            </vra:image>
+        </ww:vraSection>
+    </ww:realWorld>
+</ww:World_of_Witcher>

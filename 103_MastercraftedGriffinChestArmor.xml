@@ -60,6 +60,11 @@
                     <vra:description source="http://witcher.wikia.com/wiki/Mastercrafted_Griffin_armor">Mastercrafted Griffin Chest Armor crafted by Yoana of Crow’s Perch using 
                         diagram retrieved by Geralt of Rivia while questing in the Skellige Isles</vra:description>
                 </vra:descriptionSet>
+                <vra:locationSet>
+                    <vra:location type="owner">
+                        <vra:name type="personal">Geralt of Rivia</vra:name>
+                    </vra:location>
+                </vra:locationSet>
                 <vra:materialSet>
                     <vra:display>1 Superior Griffin armor, 2 Cured draconid leather, 3 Dimeritium plate, 1 Fifth essence, 1 Monster brain</vra:display>
                     <vra:material>Superior Griffin armor</vra:material>
